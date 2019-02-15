@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem><title><noun type="closed">The Valley</noun> of Unrest</title>
+    <author>By: Edgar Allan Poe</author>
+
+<stanza><!--tagged as stanza even though there is only one for consistency-->
+<line>Once it smiled a silent <noun type="closed">dell</noun></line>
+<line>Where the people did not dwell;</line>
+<line>They had gone unto the wars,</line>
+<line>Trusting to the mild-eyed stars,</line>
+<line>Nightly, from their azure <noun type="ascendence">towers</noun>,</line>
+<line>To keep watch <preposition type="ascendence">above</preposition> the flowers,</line>
+<line>In the midst of which all day</line>
+<line>The red sun-light lazily lay,</line>
+<line>Now each visitor shall confess</line>
+<line>The sad <noun type="closed">valley's</noun> restlessness.</line>
+<line>Nothing there is motionless—</line>
+<line>Nothing save the airs that brood</line>
+<line>Over the magic solitude.</line>
+<line>Ah, by no wind are stirred those trees</line>
+<line>That palpitate like the chill seas</line>
+<line>Around the misty <noun type="open">Hebrides!</noun></line>
+<line>Ah, by no wind those clouds are driven</line>
+<line>That rustle through the unquiet <noun type="ascendence">Heaven</noun></line>
+<line>Unceasingly, from morn till even,</line>
+<line><preposition type="ascendence">Over</preposition> the violets there that lie</line>
+<line>In myriad types of the human eye—</line>
+<line><preposition type="ascendence">Over</preposition> the lilies that wave</line>
+<line>And weep <preposition tyoe="ascendence">above</preposition> a nameless <noun type="closed">grave</noun>!</line>
+<line>They wave:—from out their fragrant tops</line>
+<line>Eternal dews come <adverb type="descent">down</adverb> in drops.</line>
+<line>They weep:—from off their delicate stems</line>
+<line>Perennial tears <verb type="descent">descend</verb> in gems.</line></stanza>
+</poem>
