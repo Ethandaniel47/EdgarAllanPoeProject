@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem id="11">
+    <meta>
+        <title>Lenore</title>
+        <author>Edgar Allan Poe</author>
+        <date></date>
+        <markedby>Matthew Borbonus</markedby>
+    </meta>
+    <title>LENORE</title>
+    <stanza rhyme="AABBCCC" id="1">
+        Ah, broken is the golden bowl! the spirit flown forever
+        Let the bell toll!—a saintly soul floats on the <foreign lang="greek">Stygian</foreign> river;
+        And, <persName>Guy De Vere</persName>, hast thou no tear?—weep now or never more!
+        See, on yon drear and <research type="desc">rigid bier <target>low</target> lies</research> thy love, <persName>Lenore</persName>!
+        Come, let the burial rite be read—the funeral song be sung, <linenum>5</linenum>
+        An anthem for the queenliest dead that ever <research type="rel"><target>died</target> so young</research>,
+        A dirge for her the doubly dead in that she <research type="rel"><target>died</target> so young</research>.
+    </stanza>
+    <stanza rhyme="AABBB" id="2">
+        "Wretches, ye loved her for her wealth and hated her for her pride,
+        And when she <research type="desc"><target>fell</target> in feeble health</research>, ye blessed her—that she died!
+        How shall the ritual, then, be read? the requiem how be sung <linenum>10</linenum>
+        By you—by yours, the evil eye,—by yours, the slanderous tongue
+        That did to <research type="rel"><target>death</target> the innocence that died</research>, and <research type="rel"><target>died</target> so young</research>?"
+    </stanza>
+   <stanza rhyme="AABBCCC"  id="3">    
+         Peccanimus; but rave not thus! and let a Sabbath song
+       <research type="asc"><target>Go up</target> to God</research> so solemnly the dead may feel no wrong.
+         The sweet <persName>Lenore</persName> hath gone before, <research type="asc">with Hope that <target>flew</target> beside</research>, <linenum>15</linenum>
+         Leaving thee wild for the dear child that should have been thy bride:
+         <research>For her, the fair and debonair, that now so <target>lowly lies</target></research>,
+         The life upon her yellow hair but not within her eyes;
+         The life still there, upon her hair—the death upon her eyes.
+    </stanza>
+    <stanza rhyme="AAABBCC" id="4">
+        "Avaunt! avaunt! <research type="desc">from friends <target>below</target></research>, the indignant ghost is riven— <linenum>20</linenum>
+        From Hell unto a high estate <research type="asc">far up within the Heaven—</research>
+        From grief and groan, to a golden throne, beside the King of Heaven!
+        Let no bell toll, then,—lest her soul, amid its hallowed mirth,
+        Should catch the note as it doth <research type="asc">float <target>up</target> from the damnéd Earth!</research>
+        And I!—to-night my heart is light!—No dirge will I upraise, <linenum>25</linenum>
+        But waft the angel on her <research type="asc"><target>flight</target> with a Pæan</research> of old days."
+    </stanza>
+</poem>
+
