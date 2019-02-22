@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>TO ——</title>
+    
+    <line>I heed not that my earthly lot</line>
+    <line>Hath little of Earth in it,</line>
+    <line>That years of love have been forgot</line>
+    <line>In the hatred of a minute:</line>
+    
+    <line>I mourn not that the desolate 5</line>
+    <line>Are happier, sweet, than I,</line>
+    <line>But that you sorrow for my fate</line>
+    <line>Who am a passer-by.</line>
+</poem>

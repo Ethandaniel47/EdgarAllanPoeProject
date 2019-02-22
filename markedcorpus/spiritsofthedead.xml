@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>SPIRITS OF THE DEAD</title>
+    
+    <line>Thy soul shall find itself alone</line>
+    <line>Mid dark thoughts of the gray tombstone;</line>
+    <line>Not one, of all the crowd, to pry</line>
+    <line>Into thine hour of secrecy.</line>
+    
+    <line>Be silent in that solitude, 5</line>
+    <line>Which is not loneliness—for then</line>
+    <line>The spirits of the dead, who stood</line>
+    <line>In life before thee, are again</line>
+    <line>In death around thee, and their will</line>
+    <line>Shall overshadow thee; be still. 10</line>
+    
+    <line>The night, though clear, shall frown,</line>
+    <line>And the stars shall look not down</line>
+    <line>From their high thrones in the Heaven</line>
+    <line>With light like hope to mortals given,</line>
+    <line>But their red orbs, without beam, 15</line>
+    <line>To thy weariness shall seem</line>
+    <line>As a burning and a fever</line>
+    <line>Which would cling to thee forever.</line>
+    
+    <line>Now are thoughts thou shalt not banish,</line>
+    <line>Now are visions ne'er to vanish; 20</line>
+    <line>From thy spirit shall they pass</line>
+    <line>No more, like dewdrops from the grass.</line>
+    
+    <line>The breeze, the breath of God, is still,</line>
+    <line>And the mist upon the hill</line>
+    <line>Shadowy, shadowy, yet unbroken, 25</line>
+    <line>Is a symbol and a token.</line>
+    <line>How it hangs upon the trees,</line>
+    <line>A mystery of mysteries!</line>
+</poem>

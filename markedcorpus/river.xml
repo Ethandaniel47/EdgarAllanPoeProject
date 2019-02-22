@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+  <title>TO THE RIVER</title>
+  
+  <line>Fair river! in thy bright, clear flow</line>
+  <line>Of crystal, wandering water,</line>
+  <line>Thou art an emblem of the glow</line>
+  <line>Of beauty—the unhidden heart,</line>
+  <line>The playful maziness of art 5</line>
+  <line>In old Alberto's daughter;</line>
+  
+  <line>But when within thy wave she looks,</line>
+  <line>Which glistens then, and trembles,</line>
+  <line>Why, then, the prettiest of brooks</line>
+  <line>Her worshipper resembles; 10</line>
+  <line>For in his heart, as in thy stream,</line>
+  <line>Her image deeply lies—</line>
+  <line>His heart which trembles at the beam</line>
+  <line>Of her soul-searching eyes.</line>
+</poem>

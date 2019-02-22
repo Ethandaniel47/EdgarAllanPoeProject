@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title>ROMANCE</title>
+    
+    <line>Romance, who loves to nod and sing</line>
+    <line>With drowsy head and folded wing</line>
+    <line>Among the green leaves as they shake</line>
+    <line>Far down within some shadowy lake,</line>
+    <line>To me a painted paroquet 5</line>
+    <line>Hath been—a most familiar bird—</line>
+    <line>Taught me my alphabet to say,</line>
+    <line>To lisp my very earliest word</line>
+    <line>While in the wild-wood I did lie,</line>
+    <line>A child—with a most knowing eye. 10</line>
+    
+    <line>Of late, eternal condor years</line>
+    <line>So shake the very heaven on high</line>
+    <line>With tumult as they thunder by,</line>
+    <line>I have no time for idle cares</line>
+    <line>Through gazing on the unquiet sky; 15</line>
+    <line>And when an hour with calmer wings</line>
+    <line>Its down upon my spirit flings,</line>
+    <line>That little time with lyre and rhyme</line>
+    <line>To while away—forbidden things—</line>
+    <line>My heart would feel to be a crime 20</line>
+    <line>Unless it trembled with the strings.</line>
+</poem>

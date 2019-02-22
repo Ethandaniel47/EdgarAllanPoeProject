@@ -1,0 +1,25 @@
+#Preliminary schema
+#created by Matt
+start = poem
+poem = element poem{title,line+}
+
+title = element title{text}
+#The line
+line = element line{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign)*}}
+
+#The parts of speech (and ref)
+noun = element noun{value, text}
+verb = element verb{value, text}
+adj = element adj{value, text}
+adv = element adv{value, text}
+prep = element prep{value, text}
+conj = element conj{value, text}
+inter = element inter{value, text}
+pron = element pron{value, text}
+
+ref = element ref{value, text}
+
+value = attribute value{text}
+
+foreign = element foreign{lang, text}
+lang = attribute lang{text}
