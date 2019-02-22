@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>A VALENTINE</title>
+        <date>1846</date>
+    </metadata>
+    <body>
+        <stanza>
+            <line>For her this rhyme is penned, whose luminous eyes,</line>
+            <line>Brightly <adj value="release">expressive</adj> as the twins of <ref value="myth">Leda</ref>,</line>
+            <line>Shall <verb value="release">find</verb> her own sweet name, that, nestling <verb value="capture">lies</verb></line>
+            <line><prep value="release">Upon</prep> the page, <verb value="capture">enwrapped</verb> from every reader.</line>
+            <line>Search narrowly the lines!--they <verb value="capture">hold</verb> a treasure</line>
+            <line>Divine--a talisman--an amulet</line>
+            <line>That must be worn at heart. Search well the measure--</line>
+            <line>The words--the syllables! Do not forget</line>
+            <line>The trivialest point, or you may <verb value="release">lose</verb> your labor!</line>
+            <line>And yet there is <prep value="capture">in</prep> this no Gordian <noun value="capture">knot</noun></line>
+            <line>Which one might not <verb value="release">undo</verb> <prep value="release">without</prep> a sabre,</line>
+            <line>If one could merely comprehend the plot.</line>
+            <line>Enwritten <prep value="release">upon</prep> the leaf where now are peering</line>
+            <line>Eyes scintillating <noun value="release">soul</noun>, there <verb value="capture">lie</verb> <adv value="capture">perdus</adv></line>
+            <line>Three eloquent words oft uttered <prep value="capture">in</prep> the hearing</line>
+            <line>Of poets by poets--as the name is a poet's, too.</line>
+            <line>Its letters, although naturally <verb value="capture">lying</verb></line>
+            <line>Like the knight <persName>Pinto</persName>--<persName>Mendez Ferdinando</persName>--</line>
+            <line>Still form a synonym for Truth--<verb value="capture">Cease</verb> trying!</line>
+            <line>You will not read the riddle, though you do the best you can do.</line>
+        </stanza>
+    </body>
+</poem>

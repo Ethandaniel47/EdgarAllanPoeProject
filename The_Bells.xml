@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>THE BELLS</title>
+        <date>1849</date>
+    </metadata>
+
+    <body>
+        <stanza>
+            <line>I.</line>
+            <line>Hear the sledges with the bells--</line>
+            <line>Silver bells!</line>
+            <line>What a world of merriment their melody foretells!</line>
+            <line>How they tinkle, tinkle, tinkle,</line>
+            <line><prep value="capture">In</prep> their icy air of night!</line>
+            <line>While the <noun value="release">stars</noun>, that oversprinkle</line>
+            <line>All the <noun value="release">heavens</noun>, seem to twinkle</line>
+            <line>With a crystalline delight;</line>
+            <line>Keeping time, time, time,</line>
+            <line><prep value="capture">In</prep> a sort of Runic rhyme,</line>
+            <line><prep value="capture">To</prep> the tintinnabulation that so musically <verb
+                    value="capture">wells</verb></line>
+            <line><prep value="release">From</prep> the bells, bells, bells, bells,</line>
+            <line>Bells, bells, bells--</line>
+            <line><prep value="release">From</prep> the jingling and the tinkling of the
+                bells.</line>
+        </stanza>
+
+        <stanza>
+            <line>II.</line>
+            <line>Hear the mellow wedding bells,</line>
+            <line>Golden bells!</line>
+            <line>What a world of happiness their harmony foretells!</line>
+            <line>Through the balmy air of night</line>
+            <line>How they ring <prep value="release">out</prep> their delight!</line>
+            <line><prep value="release">From</prep> the molten golden-notes,</line>
+            <line>And all <prep value="capture">in</prep> tune,</line>
+            <line>What a liquid ditty <verb value="release">floats</verb></line>
+            <line><prep value="capture">To</prep> the turtle-dove that listens, while she
+                gloats</line>
+            <line><prep value="capture">On</prep> the <noun value="release">moon</noun>!</line>
+            <line>Oh, <prep value="release">from</prep>
+                <prep value="release">out</prep> the sounding <noun value="capture"
+                >cells</noun>,</line>
+            <line>What a <noun value="release">gush</noun> of euphony voluminously <verb
+                    value="capture">wells</verb>!</line>
+            <line>How it <verb value="capture">swells</verb>!</line>
+            <line>How it <verb value="capture">dwells</verb></line>
+            <line><prep value="capture">On</prep> the future! how it tells</line>
+            <line>Of the <noun value="release">rapture</noun> that <verb value="release"
+                    >impels</verb></line>
+            <line><prep value="capture">To</prep> the swinging and the ringing</line>
+            <line>Of the bells, bells, bells,</line>
+            <line>Of the bells, bells, bells, bells,</line>
+            <line>Bells, bells, bells--</line>
+            <line><prep value="capture">To</prep> the rhyming and the chiming of the bells!</line>
+        </stanza>
+
+        <stanza>
+            <line>III.</line>
+            <line>Hear the loud alarum bells--</line>
+            <line>Brazen bells!</line>
+            <line>What a tale of terror now their turbulency tells!</line>
+            <line><prep value="capture">In</prep> the startled ear of night</line>
+            <line>How they scream <prep value="release">out</prep> their affright!</line>
+            <line>Too much horrified to speak,</line>
+            <line>They can only <verb value="release">shriek</verb>, <verb value="release"
+                    >shriek</verb>,</line>
+            <line><prep value="release">Out</prep> of tune,</line>
+            <line><prep value="capture">In</prep> a clamorous appealing <prep value="capture"
+                    >to</prep> the <noun value="release">mercy</noun> of the fire,</line>
+            <line><prep value="capture">In</prep> a mad expostulation with the deaf and frantic
+                fire</line>
+            <line><verb value="release">Leaping</verb>
+                <prep value="release">higher</prep>, <prep value="release">higher</prep>, <prep
+                    value="release">higher</prep>,</line>
+            <line>With a desperate desire,</line>
+            <line>And a resolute endeavor</line>
+            <line>Now--now <prep value="capture">to</prep> sit or <prep value="capture"
+                >never</prep>,</line>
+            <line>By the side of the pale-faced <noun value="release">moon</noun>.</line>
+            <line>Oh, the bells, bells, bells!</line>
+            <line>What a tale their terror tells</line>
+            <line>Of Despair!</line>
+            <line>How they clang, and clash, and roar!</line>
+            <line>What a horror they <verb value="release">outpour</verb></line>
+            <line><prep value="capture">On</prep> the bosom of the palpitating air!</line>
+            <line>Yet the ear it fully knows,</line>
+            <line>By the twanging,</line>
+            <line>And the clanging,</line>
+            <line>How the danger <verb value="capture">ebbs</verb> and <verb value="release"
+                    >flows</verb>;</line>
+            <line>Yet the ear distinctly tells,</line>
+            <line><prep value="capture">In</prep> the jangling,</line>
+            <line>And the wrangling,</line>
+            <line>How the <noun value="capture">danger</noun>
+                <verb value="capture">sinks</verb> and <verb value="capture">swells</verb>,</line>
+            <line>By the <verb value="capture">sinking</verb> or the <verb value="capture"
+                    >swelling</verb>
+                <prep value="capture">in</prep> the anger of the bells--</line>
+            <line>Of the bells--</line>
+            <line>Of the bells, bells, bells, bells,</line>
+            <line>Bells, bells, bells--</line>
+            <line><prep value="capture">In</prep> the clamor and the clangor of the bells!</line>
+        </stanza>
+
+        <stanza>
+            <line>IV.</line>
+            <line>Hear the tolling of the bells--</line>
+            <line>Iron bells!</line>
+            <line>What a world of solemn thought their monody compels!</line>
+            <line><prep value="capture">In</prep> the silence of the night,</line>
+            <line>How we shiver with affright</line>
+            <line>At the melancholy menace of their tone!</line>
+            <line>For every sound that <verb value="release">floats</verb></line>
+            <line><prep value="release">From</prep> the rust <prep value="capture">within</prep>
+                their throats</line>
+            <line>Is a groan.</line>
+            <line>And the people--ah, the people--</line>
+            <line>They that <verb value="capture">dwell</verb>
+                <prep value="release">up</prep>
+                <prep value="capture">in</prep> the steeple.</line>
+            <line>All alone,</line>
+            <line>And who toiling, toiling, toiling,</line>
+            <line><prep value="capture">In</prep> that muffled monotone,</line>
+            <line>Feel a <noun value="release">glory</noun>
+                <prep value="capture">in</prep> so rolling</line>
+            <line><prep value="release">On</prep> the human heart a stone--</line>
+            <line>They are neither man nor woman--</line>
+            <line>They are neither brute nor human--</line>
+            <line>They are <noun value="capture">Ghouls</noun>:</line>
+            <line>And their king it is who tolls;</line>
+            <line>And he rolls, rolls, rolls,</line>
+            <line>Rolls</line>
+            <line>A pæan from the bells!</line>
+            <line>And his merry bosom <verb value="capture">swells</verb></line>
+            <line>With the pæan of the bells!</line>
+            <line>And he dances, and he yells;</line>
+            <line>Keeping time, time, time,</line>
+            <line><prep value="capture">In</prep> a sort of Runic rhyme,</line>
+            <line><prep value="capture">To</prep> the pæan of the bells--</line>
+            <line>Of the bells:</line>
+            <line>Keeping time, time, time,</line>
+            <line><prep value="capture">In</prep> a sort of Runic rhyme,</line>
+            <line><prep value="capture">To</prep> the throbbing of the bells--</line>
+            <line>Of the bells, bells, bells--</line>
+            <line><prep value="capture">To</prep> the sobbing of the bells;</line>
+            <line>Keeping time, time, time,</line>
+            <line>As he knells, knells, knells,</line>
+            <line><prep value="capture">In</prep> a happy Runic rhyme,</line>
+            <line><prep value="capture">To</prep> the rolling of the bells--</line>
+            <line>Of the bells, bells, bells--</line>
+            <line><prep value="capture">To</prep> the tolling of the bells,</line>
+            <line>Of the bells, bells, bells, bells,</line>
+            <line>Bells, bells, bells--</line>
+            <line><prep value="capture">To</prep> the moaning and the groaning of the bells.</line>
+        </stanza>
+    </body>
+</poem>

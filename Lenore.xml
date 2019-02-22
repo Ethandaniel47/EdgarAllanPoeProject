@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>LENORE</title>
+        <date>1884</date>
+    </metadata>
+
+    <body>
+        <stanza>
+            <line>Ah, <verb value="release">broken</verb> is the golden bowl! the <noun value="release">spirit</noun> <verb value="release">flown</verb> forever!</line>
+            <line><verb value="release">Let</verb> the bell <verb value="release">toll</verb>!--a <adj value="release">saintly</adj> <noun value="release">soul</noun> <verb value="release">floats</verb> <prep value="capture">on</prep> the <ref value="myth">Stygian</ref> river.</line>
+            <line>And, <ref value="persName">Guy de Vere</ref>, hast thou no tear?--weep now or <noun value="capture">never</noun> more!</line>
+            <line>See! <prep value="capture">on</prep> yon drear and rigid bier <adv value="capture">low</adv> <verb value="capture">lies</verb> thy love, <persName>Lenore</persName>!</line>
+            <line><verb value="release">Come</verb>! <verb valu="release">let</verb> the <noun value="capture">burial</noun> rite be read--the <noun value="capture">funeral</noun> song be sung!--</line>
+            <line>An anthem for the queenliest <noun value="capture">dead</noun> that ever <verb value="capture">died</verb> so young--</line>
+            <line>A <noun value="capture">dirge</noun> for her, the doubly <noun value="capture">dead</noun> <prep value="capture">in</prep> that she <verb value="capture">died</verb> so young.</line>
+        </stanza>
+
+        <stanza>
+            <line>"Wretches! ye <verb value="release">loved</verb> her for her <adj value="release">wealth</adj> and <verb value="capture">hated</verb> her for her pride,</line>
+            <line>And when she <verb value="capture">fell</verb> <prep value="capture">in</prep> feeble health, ye <verb value="release">blessed</verb> her--that she <verb value="capture">died</verb>!</line>
+            <line>How shall the ritual, then, be read?--the <noun value="capture">requiem</noun> how be sung</line>
+            <line>By you--by yours, the <adj value="capture">evil</adj> eye,--by yours, the <adj value="capture">slanderous</adj> tongue</line>
+            <line>That did <prep value="capture">to</prep> <noun value="capture">death</noun> the <noun value="release">innocence</noun> that <verb value="capture">died</verb>, and <verb value="capture">died</verb> so young?"</line>
+        </stanza>
+
+        <stanza>
+            <line><foreign lang="Latin">Peccavimus</foreign>; but <verb value="release">rave</verb> not thus! and <verb value="release">let</verb> a <ref value="religious">Sabbath</ref> song</line>
+            <line><verb value="release">Go</verb> <prep value="release">up</prep> <prep value="capture">to</prep> <noun value="release">God</noun> so <adv value="capture">solemnly</adv> the <noun value="capture">dead</noun> may feel no <noun value="capture">wrong</noun>!</line>
+            <line>The sweet <persName>Lenore</persName> hath "<verb value="release">gone</verb> before," with <noun value="release">Hope</noun>, that <verb value="release">flew</verb> beside,</line>
+            <line><verb value="release">Leaving</verb> thee wild for the dear child that should have been thy bride--</line>
+            <line>For her, the fair and <foreign lang="French">débonnaire</foreign>, that now so <adv value="capture">lowly</adv> <verb value="capture">lies</verb>,</line>
+            <line>The life <prep value="release">upon</prep> her yellow hair but not <prep value="capture">within</prep> her eyes--</line>
+            <line>The life still there, <prep value="release">upon</prep> her hair--the <noun value="capture">death</noun> <prep value="release">upon</prep> her eyes.</line>
+        </stanza>
+
+        <stanza>
+            <line>"<verb value="release">Avaunt</verb>! to-night my heart is <adj value="release">light</adj>. No <noun value="capture">dirge</noun> will I <verb value="release">upraise</verb>,</line>
+            <line>But <verb value="release">waft</verb> the <noun value="release">angel</noun> <prep va;ue="release">on</prep> her <noun value="release">flight</noun> with a <forgein lang="Greek">pæan</forgein> of old days!</line>
+            <line><verb value="release">Let</verb> no bell <verb value="release">toll</verb>!--lest her sweet <noun value="release">soul</noun>, <prep value="capture">amid</prep> its <adj value="release">hallowed</adj> mirth,</line>
+            <line>Should <verb value="capture">catch</verb> the note, as it doth float <prep value="release">up</prep> <prep value="release">from</prep> the <adj value="capture">damned</adj> Earth.</line>
+            <line>To friends <prep value="release">above</prep>, <prep value="release">from</prep> fiends <prep value="capture">below</prep>, the indignant <noun value="capture">ghost</noun> is <verb value="release">riven</verb>--</line>
+            <line><prep value="release">From</prep> <noun value="capture">Hell</noun> unto a <adj value="release">high</adj> estate far <prep value="release">up</prep> <prep value="capture">within</prep> the <noun value="release">Heaven</noun>--</line>
+            <line><prep value="release">From</prep> <noun value="capture">grief</noun> and groan <prep value="capture">to</prep> a golden <noun value="release">throne</noun> beside the King of <noun value="release">Heaven</noun>."</line>
+        </stanza>
+    </body>
+</poem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>ANNABEL LEE</title>
+    </metadata>
+
+    <body>
+        <stanza>
+            <line>It was many and many a year ago,</line>
+            <line><prep value="capture">In</prep> a kingdom by the sea,</line>
+            <line>That a maiden there lived whom you may know</line>
+            <line>By the name of <persName>ANNABEL LEE</persName>;</line>
+            <line>And this maiden she lived with no other thought</line>
+            <line>Than to love and be loved by me.</line>
+        </stanza>
+
+        <stanza>
+            <line>I was a child and she was a child,</line>
+            <line><prep value="capture">In</prep> this kingdom by the sea:</line>
+            <line>But we loved with a love that was more than love--</line>
+            <line>I and my <persName>ANNABEL LEE</persName>;</line>
+            <line>With a love that the <adj value="release">winged</adj> <noun value="release">seraphs</noun> of <noun value="release">heaven</noun></line>
+            <line><verb value="capture">Coveted</verb> her and me.</line>
+        </stanza>
+
+        <stanza>
+            <line>And this was the reason that, long ago,</line>
+            <line><prep value="capture">In</prep> this kingdom by the sea,</line>
+            <line>A wind <verb value="release">blew</verb> <prep value="release">out</prep> of a cloud, chilling</line>
+            <line>My beautiful <persName>ANNABEL LEE</persName>;</line>
+            <line>So that her highborn kinsmen <verb value="capture">came</verb></line>
+            <line>And <verb value="capture">bore</verb> her <prep value="release">away</prep> <prep value="release">from</prep> me,</line>
+            <line>To <verb value="capture">shut</verb> her <prep value="release">up</prep> <prep value="capture">in</prep> a <noun value="capture">sepulchre</noun></line>
+            <line><prep value="capture">In</prep> this kingdom by the sea.</line>
+        </stanza>
+
+        <stanza>
+            <line>The <noun value="release">angels</noun>, not half so happy <prep value="capture">in</prep> <noun value="release">heaven</noun>,</line>
+            <line><verb value="release">Went</verb> envying her and me--</line>
+            <line>Yes!--that was the reason (as all men know,</line>
+            <line><prep value="capture">In</prep> this kingdom by the sea)</line>
+            <line>That the wind <verb value="capture">came</verb> <prep value="release">out</prep> of the cloud by night,</line>
+            <line>Chilling and <verb value="capture">killing</verb> my <persName>ANNABEL LEE</persName>.</line>
+        </stanza>
+
+        <stanza>
+            <line>But our love it was stronger by far than the love</line>
+            <line>Of those who were older than we--</line>
+            <line>Of many far wiser than we--</line>
+            <line>And neither the <noun value="release">angels</noun> <prep value="capture">in</prep> <noun value="release">heaven</noun> <prep value="release">above</prep>,</line>
+            <line>Nor the <noun value="capture">demons</noun> <prep value="capture">down</prep> <prep value="capture">under</prep> the sea,</line>
+            <line>Can ever <verb value="release">dissever</verb> my <noun value="release">soul</noun> from the <noun value="release">soul</noun></line>
+            <line>Of the beautiful <persName>ANNABEL LEE</persName>.</line>
+        </stanza>
+
+        <stanza>
+            <line>For the <noun value="release">moon</noun> never <verb value="release">beams</verb> <prep value="release">without</prep> <verb value="capture">bringing</verb> me dreams</line>
+            <line>Of the beautiful <persName>ANNABEL LEE</persName>;</line>
+            <line>And the <noun value="release">stars</noun> never <verb value="release">rise</verb> but I see the bright eyes</line>
+            <line>Of the beautiful <persName>ANNABEL LEE</persName>;</line>
+            <line>And so, all the night-tide, I <verb value="capture">lie</verb> <prep value="capture">down</prep> by the side</line>
+            <line>Of my darling, my darling, my life and my bride,</line>
+            <line><prep value="capture">In</prep> her <noun value="capture">sepulchre</noun> there by the sea--</line>
+            <line><prep value="capture">In</prep> her <noun value="capture">tomb</noun> by the side of the sea.</line>
+        </stanza>
+    </body>
+</poem>
