@@ -5,8 +5,8 @@
     <title>SONG</title>
 
     <line>I saw thee on thy bridal day,</line>
-    <line>When a burning blush came o'er thee,</line>
-    <line>Though happiness around thee lay,</line>
+    <line>When a burning blush came <prep value="closed">o'er</prep> thee,</line>
+    <line>Though happiness <adv value="open">around</adv> thee <verb value="closed">lay</verb>,</line>
     <line>The world all love before thee;</line>
     
     <line>And <prep value="closed">in</prep> thine eye a kindling light</line>
@@ -20,7 +20,7 @@
     <line><prep value="closed">In</prep> the breast of him, alas!</line>
     
     <line>Who saw thee on that bridal day,</line>
-    <line>When that deep blush would come <prep value="open">o'er</prep> thee,</line>
-    <line>Though happiness around thee lay,</line>
+    <line>When that deep blush would come <prep value="closed">o'er</prep> thee,</line>
+    <line>Though happiness <adv value="open">around</adv> thee <verb value="closed">lay</verb>,</line>
     <line>The world all love before thee.</line>
 </poem>
