@@ -1,26 +1,28 @@
 #Preliminary schema
 #created by Matt
 start = poem
-poem = element poem{title,line+}
+poem = element poem{title,stanza+}
+stanza = element stanza{lb+}
 
 title = element title{text}
 #The line
-line = element line{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
+lb = element lb{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
 
 #The parts of speech (and ref)
-noun = element noun{value, text}
-verb = element verb{value, text}
-adj = element adj{value, text}
-adv = element adv{value, text}
-prep = element prep{value, text}
-conj = element conj{value, text}
-inter = element inter{value, text}
-pron = element pron{value, text}
-det = element det{value, text}
+noun = element noun{pvalue, text}
+verb = element verb{pvalue, text}
+adj = element adj{pvalue, text}
+adv = element adv{pvalue, text}
+prep = element prep{pvalue, text}
+conj = element conj{pvalue, text}
+inter = element inter{pvalue, text}
+pron = element pron{pvalue, text}
+det = element det{pvalue, text}
 
-ref = element ref{value, text}
+ref = element ref{rvalue, text}
 
-value = attribute value{text}
+rvalue = attribute value{text}
+pvalue = attribute value{"open" | "closed"}
 
 foreign = element foreign{lang, text}
 lang = attribute lang{text}

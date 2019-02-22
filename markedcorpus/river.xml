@@ -3,20 +3,22 @@
 <?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
   <title>TO THE RIVER</title>
-  
-  <line>Fair river! in thy bright, <adj value="open">clear</adj> flow</line>
-  <line>Of <adj value="open">crystal</adj>, wandering water,</line>
-  <line>Thou art an emblem of the glow</line>
-  <line>Of beauty—the <adj value="open">unhidden</adj> heart,</line>
-  <line>The playful <noun value="closed">maziness</noun> of art</line>
-  <line>In old Alberto's daughter;</line>
-  
-  <line>But when within thy wave she looks,</line>
-  <line>Which glistens then, and <verb value="closed">trembles</verb>,</line>
-  <line>Why, then, the prettiest of brooks</line>
-  <line>Her worshipper resembles;</line>
-  <line>For in his heart, as in thy stream,</line>
-  <line>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—</line>
-  <line>His heart which <verb value="closed">trembles</verb> at the beam</line>
-  <line>Of her <verb value="open">soul-searching</verb> eyes.</line>
+  <stanza>
+    <lb>Fair river! in thy bright, <adj value="open">clear</adj> flow</lb>
+    <lb>Of <adj value="open">crystal</adj>, wandering water,</lb>
+    <lb>Thou art an emblem of the glow</lb>
+    <lb>Of beauty—the <adj value="open">unhidden</adj> heart,</lb>
+    <lb>The playful <noun value="closed">maziness</noun> of art</lb>
+    <lb>In old Alberto's daughter;</lb>
+  </stanza>
+  <stanza>
+    <lb>But when within thy wave she looks,</lb>
+    <lb>Which glistens then, and <verb value="closed">trembles</verb>,</lb>
+    <lb>Why, then, the prettiest of brooks</lb>
+    <lb>Her worshipper resembles;</lb>
+    <lb>For in his heart, as in thy stream,</lb>
+    <lb>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—</lb>
+    <lb>His heart which <verb value="closed">trembles</verb> at the beam</lb>
+    <lb>Of her <verb value="open">soul-searching</verb> eyes.</lb>
+  </stanza>
 </poem>
