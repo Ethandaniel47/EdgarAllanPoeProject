@@ -15,7 +15,7 @@
     <line>While in the wild-wood I did <verb value="closed">lie</verb>,</line>
     <line>A child—with a most knowing eye.</line>
     
-    <line>Of late, eternal condor years</line>
+    <line>Of late, eternal <foreign lang="sp">condor</foreign> years</line>
     <line>So shake the very <noun value="noun">heaven</noun> on high</line>
     <line>With <foreign lang="latin">tumult</foreign> as they thunder by,</line>
     <line>I have no time for idle cares</line>
@@ -23,7 +23,7 @@
     <line>And when an hour with calmer wings</line>
     <line>Its <adv value="closed">down</adv> upon my spirit <verb value="closed">flings</verb>,</line>
     <line>That little time with lyre and rhyme</line>
-    <line>To while away—forbidden things—</line>
+    <line>To while away—<adj value="closed">forbidden</adj> things—</line>
     <line>My heart would feel to be a crime</line>
     <line>Unless it trembled with the strings.</line>
 </poem>

@@ -11,9 +11,9 @@
     
     <line>Be silent in that <noun value="closed">solitude</noun>,</line>
     <line>Which is not <noun value="noun">loneliness</noun>—for then</line>
-    <line>The spirits of the dead, who stood</line>
+    <line>The spirits of the dead, who <verb value="open">stood</verb></line>
     <line>In life before thee, are again</line>
-    <line>In <noun value="closed">death</noun> around thee, and their will</line>
+    <line>In <noun value="closed">death</noun> <adv value="closed">around</adv> thee, and their will</line>
     <line>Shall <verb value="open">overshadow</verb> thee; be still.</line>
     
     <line>The night, though clear, shall frown,</line>
@@ -32,7 +32,7 @@
     
     <line>The breeze, the breath of God, is still,</line>
     <line>And the mist <prep value="open">upon</prep> the hill</line>
-    <line>Shadowy, shadowy, yet unbroken,</line>
+    <line>Shadowy, shadowy, yet <adj value="open">unbroken</adj>,</line>
     <line>Is a symbol and a token.</line>
     <line>How it <verb value="open">hangs</verb> upon the trees,</line>
     <line>A mystery of mysteries!</line>
