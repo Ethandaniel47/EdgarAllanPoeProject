@@ -2,38 +2,46 @@
 
 <?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <title>SPIRITS OF THE DEAD</title>
+    <meta>
+        <title>SPIRITS OF THE DEAD</title>
+    </meta>
     
-    <line>Thy soul shall find itself <adj value="closed">alone</adj></line>
-    <line>Mid dark thoughts of the gray <noun value="closed">tombstone</noun>;</line>
-    <line>Not one, of all the crowd, to pry</line>
-    <line>Into thine hour of <noun value="closed">secrecy</noun>.</line>
-    
-    <line>Be silent in that <noun value="closed">solitude</noun>,</line>
-    <line>Which is not <noun value="noun">loneliness</noun>—for then</line>
-    <line>The spirits of the dead, who <verb value="open">stood</verb></line>
-    <line>In life before thee, are again</line>
-    <line>In <noun value="closed">death</noun> <adv value="closed">around</adv> thee, and their will</line>
-    <line>Shall <verb value="open">overshadow</verb> thee; be still.</line>
-    
-    <line>The night, though clear, shall frown,</line>
-    <line>And the stars shall look not <adv value="closed">down</adv></line>
-    <line>From their <adj value="open">high</adj> thrones in the <noun value="open">Heaven</noun></line>
-    <line>With light like hope to mortals given,</line>
-    <line>But their red orbs, without beam,</line>
-    <line>To thy weariness shall seem</line>
-    <line>As a burning and a fever</line>
-    <line>Which would <verb value="closed">cling</verb> to thee forever.</line>
-    
-    <line>Now are thoughts thou shalt not <verb value="closed">banish</verb>,</line>
-    <line>Now are visions ne'er to <verb value="closed">vanish</verb>;</line>
-    <line>From thy spirit shall they pass</line>
-    <line>No more, like dewdrops from the grass.</line>
-    
-    <line>The breeze, the breath of God, is still,</line>
-    <line>And the mist <prep value="open">upon</prep> the hill</line>
-    <line>Shadowy, shadowy, yet <adj value="open">unbroken</adj>,</line>
-    <line>Is a symbol and a token.</line>
-    <line>How it <verb value="open">hangs</verb> upon the trees,</line>
-    <line>A mystery of mysteries!</line>
+    <stanza>
+        <br>Thy soul shall find itself <adj value="closed">alone</adj></br>
+        <br>Mid dark thoughts of the gray <noun value="closed">tombstone</noun>;</br>
+        <br>Not one, of all the crowd, to pry</br>
+        <br>Into thine hour of <noun value="closed">secrecy</noun>.</br>
+    </stanza>
+    <stanza>
+        <br>Be silent in that <noun value="closed">solitude</noun>,</br>
+        <br>Which is not <noun value="closed">loneliness</noun>—for then</br>
+        <br>The spirits of the dead, who <verb value="open">stood</verb></br>
+        <br>In life before thee, are again</br>
+        <br>In <noun value="closed">death</noun> <adv value="closed">around</adv> thee, and their will</br>
+        <br>Shall <verb value="open">overshadow</verb> thee; be still.</br>
+    </stanza>
+    <stanza>
+        <br>The night, though clear, shall frown,</br>
+        <br>And the stars shall look not <adv value="closed">down</adv></br>
+        <br>From their <adj value="open">high</adj> thrones in the <noun value="open">Heaven</noun></br>
+        <br>With light like hope to mortals given,</br>
+        <br>But their red orbs, without beam,</br>
+        <br>To thy weariness shall seem</br>
+        <br>As a burning and a fever</br>
+        <br>Which would <verb value="closed">cling</verb> to thee forever.</br>
+    </stanza>
+    <stanza>
+        <br>Now are thoughts thou shalt not <verb value="closed">banish</verb>,</br>
+        <br>Now are visions ne'er to <verb value="closed">vanish</verb>;</br>
+        <br>From thy spirit shall they pass</br>
+        <br>No more, like dewdrops from the grass.</br>
+    </stanza>
+    <stanza>
+        <br>The breeze, the breath of God, is still,</br>
+        <br>And the mist <prep value="open">upon</prep> the hill</br>
+        <br>Shadowy, shadowy, yet <adj value="open">unbroken</adj>,</br>
+        <br>Is a symbol and a token.</br>
+        <br>How it <verb value="open">hangs</verb> upon the trees,</br>
+        <br>A mystery of mysteries!</br>
+    </stanza>
 </poem>

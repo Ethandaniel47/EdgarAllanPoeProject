@@ -1,12 +1,17 @@
 #Preliminary schema
 #created by Matt
 start = poem
-poem = element poem{title,stanza+}
-stanza = element stanza{lb+}
+poem = element poem{meta,stanza+}
 
+meta = element meta{title, date?}
 title = element title{text}
+date = element date{text}
+
+stanza = element stanza{br+}
+
+
 #The line
-lb = element lb{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
+br = element br{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
 
 #The parts of speech (and ref)
 noun = element noun{pvalue, text}
