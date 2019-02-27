@@ -5,27 +5,27 @@
         <title>SONG</title>
     </meta>
     <stanza>
-        <br>I saw thee on thy bridal day,</br>
-        <br>When a burning blush came <prep value="closed">o'er</prep> thee,</br>
-        <br>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</br>
-        <br>The world all love before thee;</br>
+        <l>I saw thee on thy bridal day,</l>
+        <l>When a burning blush came <prep value="closed">o'er</prep> thee,</l>
+        <l>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</l>
+        <l>The world all love before thee;</l>
     </stanza>
     <stanza>
-        <br>And <prep value="closed">in</prep> thine eye a kindling light</br>
-        <br>(Whatever it might be)</br>
-        <br>Was all on Earth my aching sight</br>
-        <br>Of loveliness could see.</br>
+        <l>And <prep value="closed">in</prep> thine eye a kindling light</l>
+        <l>(Whatever it might be)</l>
+        <l>Was all on Earth my aching sight</l>
+        <l>Of loveliness could see.</l>
     </stanza>
     <stanza>
-        <br>That blush, perhaps, was maiden <noun value="open">shame</noun>:</br>
-        <br>As such it well may pass,</br>
-        <br>Though its glow hath <adj value="open">raised</adj> a fiercer flame</br>
-        <br><prep value="closed">In</prep> the breast of him, alas!</br>
+        <l>That blush, perhaps, was maiden <noun value="open">shame</noun>:</l>
+        <l>As such it well may pass,</l>
+        <l>Though its glow hath <adj value="open">raised</adj> a fiercer flame</l>
+        <l><prep value="closed">In</prep> the breast of him, alas!</l>
     </stanza>
     <stanza>
-        <br>Who saw thee on that bridal day,</br>
-        <br>When that deep blush would come <prep value="closed">o'er</prep> thee,</br>
-        <br>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</br>
-        <br>The world all love before thee.</br>
+        <l>Who saw thee on that bridal day,</l>
+        <l>When that deep blush would come <prep value="closed">o'er</prep> thee,</l>
+        <l>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</l>
+        <l>The world all love before thee.</l>
     </stanza>
 </poem>

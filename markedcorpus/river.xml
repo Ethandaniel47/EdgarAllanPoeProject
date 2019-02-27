@@ -7,21 +7,21 @@
   </meta>
   
   <stanza>
-    <br>Fair river! in thy bright, <adj value="open">clear</adj> flow</br>
-    <br>Of <adj value="open">crystal</adj>, wandering water,</br>
-    <br>Thou art an emblem of the glow</br>
-    <br>Of beauty—the <adj value="open">unhidden</adj> heart,</br>
-    <br>The playful <noun value="closed">maziness</noun> of art</br>
-    <br>In old Alberto's daughter;</br>
+    <l>Fair river! in thy bright, <adj value="open">clear</adj> flow</l>
+    <l>Of <adj value="open">crystal</adj>, wandering water,</l>
+    <l>Thou art an emblem of the glow</l>
+    <l>Of beauty—the <adj value="open">unhidden</adj> heart,</l>
+    <l>The playful <noun value="closed">maziness</noun> of art</l>
+    <l>In old Alberto's daughter;</l>
   </stanza>
   <stanza>
-    <br>But when within thy wave she looks,</br>
-    <br>Which glistens then, and <verb value="closed">trembles</verb>,</br>
-    <br>Why, then, the prettiest of brooks</br>
-    <br>Her worshipper resembles;</br>
-    <br>For in his heart, as in thy stream,</br>
-    <br>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—</br>
-    <br>His heart which <verb value="closed">trembles</verb> at the beam</br>
-    <br>Of her <verb value="open">soul-searching</verb> eyes.</br>
+    <l>But when within thy wave she looks,</l>
+    <l>Which glistens then, and <verb value="closed">trembles</verb>,</l>
+    <l>Why, then, the prettiest of brooks</l>
+    <l>Her worshipper resembles;</l>
+    <l>For in his heart, as in thy stream,</l>
+    <l>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—</l>
+    <l>His heart which <verb value="closed">trembles</verb> at the beam</l>
+    <l>Of her <verb value="open">soul-searching</verb> eyes.</l>
   </stanza>
 </poem>

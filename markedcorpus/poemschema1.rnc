@@ -7,11 +7,11 @@ meta = element meta{title, date?}
 title = element title{text}
 date = element date{text}
 
-stanza = element stanza{br+}
+stanza = element stanza{l+}
 
 
 #The line
-br = element br{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
+l = element l{mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*}}
 
 #The parts of speech (and ref)
 noun = element noun{pvalue, text}

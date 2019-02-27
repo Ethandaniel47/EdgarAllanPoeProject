@@ -6,28 +6,28 @@
         <title>ROMANCE</title>
     </meta>
     <stanza>
-        <br>Romance, who loves to nod and sing</br>
-        <br>With drowsy head and <verb value="closed">folded</verb> wing</br>
-        <br>Among the green leaves as they shake</br>
-        <br>Far <adv value="closed">down</adv> <prep value="closed">within</prep> some shadowy lake,</br>
-        <br>To me a painted <foreign lang="fr">paroquet</foreign></br>
-        <br>Hath been—a most familiar bird—</br>
-        <br>Taught me my alphabet to say,</br>
-        <br>To lisp my very earliest word</br>
-        <br>While in the wild-wood I did <verb value="closed">lie</verb>,</br>
-        <br>A child—with a most knowing eye.</br>
+        <l>Romance, who loves to nod and sing</l>
+        <l>With drowsy head and <verb value="closed">folded</verb> wing</l>
+        <l>Among the green leaves as they shake</l>
+        <l>Far <adv value="closed">down</adv> <prep value="closed">within</prep> some shadowy lake,</l>
+        <l>To me a painted <foreign lang="fr">paroquet</foreign></l>
+        <l>Hath been—a most familiar bird—</l>
+        <l>Taught me my alphabet to say,</l>
+        <l>To lisp my very earliest word</l>
+        <l>While in the wild-wood I did <verb value="closed">lie</verb>,</l>
+        <l>A child—with a most knowing eye.</l>
     </stanza>
     <stanza>
-        <br>Of late, eternal <foreign lang="sp">condor</foreign> years</br>
-        <br>So shake the very <noun value="open">heaven</noun> on high</br>
-        <br>With <foreign lang="latin">tumult</foreign> as they thunder by,</br>
-        <br>I have no time for idle cares</br>
-        <br>Through gazing on the unquiet sky;</br>
-        <br>And when an hour with calmer wings</br>
-        <br>Its <adv value="closed">down</adv> upon my spirit <verb value="closed">flings</verb>,</br>
-        <br>That little time with lyre and rhyme</br>
-        <br>To while away—<adj value="closed">forbidden</adj> things—</br>
-        <br>My heart would feel to be a crime</br>
-        <br>Unless it trembled with the strings.</br>
+        <l>Of late, eternal <foreign lang="sp">condor</foreign> years</l>
+        <l>So shake the very <noun value="open">heaven</noun> on high</l>
+        <l>With <foreign lang="latin">tumult</foreign> as they thunder by,</l>
+        <l>I have no time for idle cares</l>
+        <l>Through gazing on the unquiet sky;</l>
+        <l>And when an hour with calmer wings</l>
+        <l>Its <adv value="closed">down</adv> upon my spirit <verb value="closed">flings</verb>,</l>
+        <l>That little time with lyre and rhyme</l>
+        <l>To while away—<adj value="closed">forbidden</adj> things—</l>
+        <l>My heart would feel to be a crime</l>
+        <l>Unless it trembled with the strings.</l>
     </stanza>
 </poem>

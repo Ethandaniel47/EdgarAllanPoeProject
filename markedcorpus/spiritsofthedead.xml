@@ -7,41 +7,41 @@
     </meta>
     
     <stanza>
-        <br>Thy soul shall find itself <adj value="closed">alone</adj></br>
-        <br>Mid dark thoughts of the gray <noun value="closed">tombstone</noun>;</br>
-        <br>Not one, of all the crowd, to pry</br>
-        <br>Into thine hour of <noun value="closed">secrecy</noun>.</br>
+        <l>Thy soul shall find itself <adj value="closed">alone</adj></l>
+        <l>Mid dark thoughts of the gray <noun value="closed">tombstone</noun>;</l>
+        <l>Not one, of all the crowd, to pry</l>
+        <l>Into thine hour of <noun value="closed">secrecy</noun>.</l>
     </stanza>
     <stanza>
-        <br>Be silent in that <noun value="closed">solitude</noun>,</br>
-        <br>Which is not <noun value="closed">loneliness</noun>—for then</br>
-        <br>The spirits of the dead, who <verb value="open">stood</verb></br>
-        <br>In life before thee, are again</br>
-        <br>In <noun value="closed">death</noun> <adv value="closed">around</adv> thee, and their will</br>
-        <br>Shall <verb value="open">overshadow</verb> thee; be still.</br>
+        <l>Be silent in that <noun value="closed">solitude</noun>,</l>
+        <l>Which is not <noun value="closed">loneliness</noun>—for then</l>
+        <l>The spirits of the dead, who <verb value="open">stood</verb></l>
+        <l>In life before thee, are again</l>
+        <l>In <noun value="closed">death</noun> <adv value="closed">around</adv> thee, and their will</l>
+        <l>Shall <verb value="open">overshadow</verb> thee; be still.</l>
     </stanza>
     <stanza>
-        <br>The night, though clear, shall frown,</br>
-        <br>And the stars shall look not <adv value="closed">down</adv></br>
-        <br>From their <adj value="open">high</adj> thrones in the <noun value="open">Heaven</noun></br>
-        <br>With light like hope to mortals given,</br>
-        <br>But their red orbs, without beam,</br>
-        <br>To thy weariness shall seem</br>
-        <br>As a burning and a fever</br>
-        <br>Which would <verb value="closed">cling</verb> to thee forever.</br>
+        <l>The night, though clear, shall frown,</l>
+        <l>And the stars shall look not <adv value="closed">down</adv></l>
+        <l>From their <adj value="open">high</adj> thrones in the <noun value="open">Heaven</noun></l>
+        <l>With light like hope to mortals given,</l>
+        <l>But their red orbs, without beam,</l>
+        <l>To thy weariness shall seem</l>
+        <l>As a burning and a fever</l>
+        <l>Which would <verb value="closed">cling</verb> to thee forever.</l>
     </stanza>
     <stanza>
-        <br>Now are thoughts thou shalt not <verb value="closed">banish</verb>,</br>
-        <br>Now are visions ne'er to <verb value="closed">vanish</verb>;</br>
-        <br>From thy spirit shall they pass</br>
-        <br>No more, like dewdrops from the grass.</br>
+        <l>Now are thoughts thou shalt not <verb value="closed">banish</verb>,</l>
+        <l>Now are visions ne'er to <verb value="closed">vanish</verb>;</l>
+        <l>From thy spirit shall they pass</l>
+        <l>No more, like dewdrops from the grass.</l>
     </stanza>
     <stanza>
-        <br>The breeze, the breath of God, is still,</br>
-        <br>And the mist <prep value="open">upon</prep> the hill</br>
-        <br>Shadowy, shadowy, yet <adj value="open">unbroken</adj>,</br>
-        <br>Is a symbol and a token.</br>
-        <br>How it <verb value="open">hangs</verb> upon the trees,</br>
-        <br>A mystery of mysteries!</br>
+        <l>The breeze, the breath of God, is still,</l>
+        <l>And the mist <prep value="open">upon</prep> the hill</l>
+        <l>Shadowy, shadowy, yet <adj value="open">unbroken</adj>,</l>
+        <l>Is a symbol and a token.</l>
+        <l>How it <verb value="open">hangs</verb> upon the trees,</l>
+        <l>A mystery of mysteries!</l>
     </stanza>
 </poem>

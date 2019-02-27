@@ -6,15 +6,15 @@
         <title>TO ——</title>
     </meta>
     <stanza>
-        <br>I heed not that my earthly lot</br>
-        <br>Hath <det value="closed">little</det> of Earth in it,</br>
-        <br>That years of love have been <verb value="closed">forgot</verb></br>
-        <br>In the <noun value="closed">hatred</noun> of a minute:</br>
+        <l>I heed not that my earthly lot</l>
+        <l>Hath <det value="closed">little</det> of Earth in it,</l>
+        <l>That years of love have been <verb value="closed">forgot</verb></l>
+        <l>In the <noun value="closed">hatred</noun> of a minute:</l>
     </stanza>
     <stanza>
-        <br>I mourn not that the desolate</br>
-        <br>Are <adj value="open">happier</adj>, sweet, than I,</br>
-        <br>But that you <verb value="closed">sorrow</verb> for my fate</br>
-        <br>Who am a <noun value="closed">passer-by</noun>.</br>
+        <l>I mourn not that the desolate</l>
+        <l>Are <adj value="open">happier</adj>, sweet, than I,</l>
+        <l>But that you <verb value="closed">sorrow</verb> for my fate</l>
+        <l>Who am a <noun value="closed">passer-by</noun>.</l>
     </stanza>
 </poem>
