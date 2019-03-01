@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <meta>
         <title>The Lake</title>
@@ -6,34 +7,34 @@
     </meta>
     <stanza>
         <l>In spring of youth it was my lot</l>
-        <l>To haunt of the wide world a spot</l>
+        <l>To <verb value="closed">haunt</verb> of the wide world a spot</l>
         <l>The which I could not love the less—</l>
-        <l>So lovely was the loneliness</l>
-        <l>Of a wild lake, with black rock bound,</l>
-        <l>And the tall pines that towered around.</l>
+        <l>So lovely was the <adj value="closed">loneliness</adj></l>
+        <l>Of a wild lake, with black rock <verb value="closed">bound</verb>,</l>
+        <l>And the <adj value="open">tall</adj> pines that <verb value="open">towered</verb> <adv value="closed">around</adv>.</l>
     </stanza>
     <stanza>
         <l>But when the Night had thrown her pall</l>
         <l>Upon the spot, as upon all,</l>
         <l>And the mystic wind went by</l>
         <l>Murmuring in melody—</l>
-        <l>Then—ah, then, I would awake</l>
-        <l>To the terror of the lone lake.</l>
+        <l>Then—ah, then, I would <verb value="open">awake</verb></l>
+        <l>To the <noun value="closed">terror</noun> of the lone lake.</l>
     </stanza>
     <stanza>
-        <l>Yet that terror was not fright,</l>
+        <l>Yet that <noun value="closed">terror</noun> was not fright,</l>
         <l>But a tremulous delight—</l>
         <l>A feeling not the jewelled mine</l>
-        <l>Could teach or bribe me to define—</l>
+        <l>Could <verb value="open">teach</verb> or <verb value="closed">bribe</verb> me to define—</l>
         <l>Nor Love—although the Love were thine.</l>
     </stanza>
    <stanza>
-       <l>Death was in that poisonous wave,</l>
-       <l>And in its gulf a fitting grave</l>
+       <l><noun value="open">Death</noun> was in that poisonous wave,</l>
+       <l>And in its gulf a fitting <noun value="closed">grave</noun></l>
        <l>For him who thence could solace bring</l>
        <l>To his lone imagining—</l>
-       <l>Whose solitary soul could make</l>
-       <l>An Eden of that dim lake.</l>
+       <l>Whose <adj value="closed">solitary</adj> soul could make</l>
+       <l>An <ref value="biblical">Eden</ref> of that dim lake.</l>
    </stanza>
 </poem>
     
