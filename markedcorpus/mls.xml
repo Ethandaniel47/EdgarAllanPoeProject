@@ -8,21 +8,21 @@
     <stanza>
         <l>Of all who hail thy presence as the morning;</l>
         <l>Of all to whom thine absence is the night,</l>
-        <l>The blotting utterly from out high heaven</l>
+        <l>The <verb value="closed">blotting</verb> utterly from out <adj value="open">high</adj> <ref value="biblical">heaven</ref></l>
         <l>The sacred sun; of all who, weeping, bless thee</l>
         <l>Hourly for hope, for life, ah! above all,</l>
-        <l>For the resurrection of deep-buried faith</l>
+        <l>For the resurrection of <verb value="closed">deep-buried</verb> faith</l>
         <l>In truth, in virtue, in humanity;</l>
         <l>Of all who, on despair's unhallowed bed</l>
-        <l>Lying down to die, have suddenly arisen</l>
+        <l><verb value="closed">Lying</verb> <adv value="closed">down</adv> to die, have suddenly arisen</l>
         <l>At thy soft-murmured words, "Let there be light!"</l>
         <l>At the soft-murmured words that were fulfilled</l>
-        <l>In the seraphic glancing of thine eyes;</l>
+        <l>In the <foreign lang="hebrew">seraphic</foreign> glancing of thine eyes;</l>
         <l>Of all who owe thee most, whose gratitude</l>
         <l>Nearest resembles worship, oh, remember</l>
         <l>The truest, the most fervently devoted,</l>
-        <l>And think that these weak lines are written by him:</l>
+        <l>And think that these <adj value="closed">weak</adj> lines are written by him:</l>
         <l>By him, who, as he pens them, thrills to think</l>
-        <l>His spirit is communing with an angel's.</l>
+        <l>His spirit is communing with an <ref value="biblical">angel's</ref>.</l>
     </stanza>
 </poem>
