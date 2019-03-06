@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <meta>
         <title>TO ——</title>
     </meta>
     <stanza>
-        <l>I heed not that my earthly lot</l>
-        <l>Hath <det value="closed">little</det> of Earth in it,</l>
-        <l>That years of love have been <verb value="closed">forgot</verb></l>
-        <l>In the <noun value="closed">hatred</noun> of a minute:</l>
+        <lb/>I heed not that my earthly lot
+        <lb/>Hath <det value="closed">little</det> of Earth in it,
+        <lb/>That years of love have been <verb value="closed">forgot</verb>
+        <lb/>In the <noun value="closed">hatred</noun> of a minute:
     </stanza>
     <stanza>
-        <l>I mourn not that the desolate</l>
-        <l>Are <adj value="open">happier</adj>, sweet, than I,</l>
-        <l>But that you <verb value="closed">sorrow</verb> for my fate</l>
-        <l>Who am a <noun value="closed">passer-by</noun>.</l>
+        <lb/>I mourn not that the desolate
+        <lb/>Are <adj value="open">happier</adj>, sweet, than I,
+        <lb/>But that you <verb value="closed">sorrow</verb> for my fate
+        <lb/>Who am a <noun value="closed">passer-by</noun>.
     </stanza>
 </poem>
