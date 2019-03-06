@@ -9,7 +9,7 @@
         <lb/>And cloudy-looking woods,
         <lb/>Whose forms we can't discover
         <lb/>For the tears that drip all over
-        <lb/>Huge moons there wax and wane—
+        <lb/>Huge moons there <verb value="open">wax</verb> and <verb value="closed">wane</verb>—
         <lb/>Again—again—again—
         <lb/>Every moment of the night—
         <lb/>Forever changing places—
@@ -19,35 +19,35 @@
         <lb/>One more filmy than the rest
         <lb/>(A kind which, upon trial,
         <lb/>They have found to be the best)
-        <lb/>Comes down—still down—and down
+        <lb/>Comes <adv value="closed">down</adv>—still <prep value="closed">down</prep>—and <verb value="closed">down</verb>
         <lb/>With its centre on the crown
         <lb/>Of a mountain's eminence,
-        <lb/>While its wide circumference
-        <lb/>In easy drapery falls
-        <lb/>Over hamlets, over halls,
+        <lb/>While its wide <noun value="closed">circumference</noun>
+        <lb/>In easy drapery <verb value="closed">falls</verb>
+        <lb/>Over <foreign lang="fr">hamlets</foreign>, over halls,
         <lb/>Wherever they may be—
         <lb/>O'er the strange woods—o'er the sea—
         <lb/>Over spirits on the wing—
         <lb/>Over every drowsy thing—
         <lb/>And <verb value="closed">buries</verb> them up quite
-        <lb/>In a labyrinth of light—
-        <lb/>And then, how deep!—O, deep!
+        <lb/>In a <noun value="closed">labyrinth</noun> of light—
+        <lb/>And then, how <adj value="closed">deep</adj>!—O, <adj value="closed">deep</adj>!
         <lb/>Is the passion of their sleep.
-        <lb/>In the morning they arise,
-        <lb/>And their moony covering
-        <lb/>Is soaring in the skies,
+        <lb/>In the morning they <verb value="open">arise</verb>,
+        <lb/>And their moony <noun value="closed">covering</noun>
+        <lb/>Is <verb value="open">soaring</verb> in the <noun value="open">skies</noun>,
         <lb/>With the tempests as they toss,
         <lb/>Like—almost any thing—
         <lb/>Or a yellow Albatross.
         <lb/>They use that moon no more
         <lb/>For the same end as before—
-        <lb/>Videlicet a tent—
+        <lb/><foreign lang="latin">Videlicet</foreign> a tent—
         <lb/>Which I think extravagant:
         <lb/>Its atomies, however,
-        <lb/>Into a shower dissever,
+        <lb/>Into a shower <foreign lang="latin">dissever</foreign>,
         <lb/>Of which those butterflies,
-        <lb/>Of Earth, who seek the skies,
-        <lb/>And so come down again
+        <lb/>Of Earth, who seek the <noun value="open">skies</noun>,
+        <lb/>And so come <adv value="closed">down</adv> again
         <lb/>(Never-contented thing!)
         <lb/>Have brought a specimen
         <lb/>Upon their quivering wings.
