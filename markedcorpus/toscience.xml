@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <meta>
-        <title>TO SCIENCE</title>
-        A PROLOGUE TO "AL AARAAF"
+        <title>TO SCIENCE
+            A PROLOGUE TO "AL AARAAF"</title>
     </meta>
     <stanza>
-        <l>Science! true daughter of Old Time thou art,</l>
-        <l>Who alterest all things with thy peering eyes.</l>
-        <l>Why preyest thou thus upon the poet's heart,</l>
-        <l>Vulture, whose wings are dull realities?</l>
-        <l>How should he love thee? or how deem thee wise,</l>
-        <l>Who wouldst not leave him in his wandering</l>
-        <l>To seek for treasure in the jewelled skies,</l>
-        <l>Albeit he soared with an undaunted wing?</l>
-        <l>Hast thou not dragged Diana from her car,</l>
-        <l>And driven the Hamadryad from the wood</l>
-        <l>To seek a shelter in some happier star?</l>
-        <l>Hast thou not torn the Naiad from her flood,</l>
-        <l>The Elfin from the green grass, and from me</l>
-        <l>The summer dream beneath the tamarind-tree?</l>
+        <lb/>Science! true daughter of Old Time thou art,
+        <lb/>Who alterest all things with thy peering eyes.
+        <lb/>Why preyest thou thus upon the poet's heart,
+        <lb/>Vulture, whose wings are dull realities?
+        <lb/>How should he love thee? or how deem thee wise,
+        <lb/>Who wouldst not leave him in his wandering
+        <lb/>To seek for treasure in the jewelled skies,
+        <lb/>Albeit he soared with an undaunted wing?
+        <lb/>Hast thou not dragged Diana from her car,
+        <lb/>And driven the Hamadryad from the wood
+        <lb/>To seek a shelter in some happier star?
+        <lb/>Hast thou not torn the Naiad from her flood,
+        <lb/>The Elfin from the green grass, and from me
+        <lb/>The summer dream beneath the tamarind-tree?
     </stanza>
 </poem>

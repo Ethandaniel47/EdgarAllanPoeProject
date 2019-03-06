@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <meta>
         <title>ROMANCE</title>
     </meta>
     <stanza>
-        <l>Romance, who loves to nod and sing</l>
-        <l>With drowsy head and <verb value="closed">folded</verb> wing</l>
-        <l>Among the green leaves as they shake</l>
-        <l>Far <adv value="closed">down</adv> <prep value="closed">within</prep> some shadowy lake,</l>
-        <l>To me a painted <foreign lang="fr">paroquet</foreign></l>
-        <l>Hath been—a most familiar bird—</l>
-        <l>Taught me my alphabet to say,</l>
-        <l>To lisp my very earliest word</l>
-        <l>While in the wild-wood I did <verb value="closed">lie</verb>,</l>
-        <l>A child—with a most knowing eye.</l>
+        <lb/>Romance, who loves to nod and sing
+        <lb/>With drowsy head and <verb value="closed">folded</verb> wing
+        <lb/>Among the green leaves as they shake
+        <lb/>Far <adv value="closed">down</adv> <prep value="closed">within</prep> some shadowy lake,
+        <lb/>To me a painted <foreign lang="fr">paroquet</foreign>
+        <lb/>Hath been—a most familiar bird—
+        <lb/>Taught me my alphabet to say,
+        <lb/>To lisp my very earliest word
+        <lb/>While in the wild-wood I did <verb value="closed">lie</verb>,
+        <lb/>A child—with a most knowing eye.
     </stanza>
     <stanza>
-        <l>Of late, eternal <foreign lang="sp">condor</foreign> years</l>
-        <l>So shake the very <noun value="open">heaven</noun> on high</l>
-        <l>With <foreign lang="latin">tumult</foreign> as they thunder by,</l>
-        <l>I have no time for idle cares</l>
-        <l>Through gazing on the unquiet sky;</l>
-        <l>And when an hour with calmer wings</l>
-        <l>Its <adv value="closed">down</adv> upon my spirit <verb value="closed">flings</verb>,</l>
-        <l>That little time with lyre and rhyme</l>
-        <l>To while away—<adj value="closed">forbidden</adj> things—</l>
-        <l>My heart would feel to be a crime</l>
-        <l>Unless it trembled with the strings.</l>
+        <lb/>Of late, eternal <foreign lang="sp">condor</foreign> years
+        <lb/>So shake the very <noun value="open">heaven</noun> on high
+        <lb/>With <foreign lang="latin">tumult</foreign> as they thunder by,
+        <lb/>I have no time for idle cares
+        <lb/>Through gazing on the unquiet sky;
+        <lb/>And when an hour with calmer wings
+        <lb/>Its <adv value="closed">down</adv> upon my spirit <verb value="closed">flings</verb>,
+        <lb/>That little time with lyre and rhyme
+        <lb/>To while away—<adj value="closed">forbidden</adj> things—
+        <lb/>My heart would feel to be a crime
+        <lb/>Unless it trembled with the strings.
     </stanza>
 </poem>
