@@ -1,27 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
   <meta>
     <title>TO THE RIVER</title>
   </meta>
   
   <stanza>
-    <l>Fair river! in thy bright, <adj value="open">clear</adj> flow</l>
-    <l>Of <adj value="open">crystal</adj>, wandering water,</l>
-    <l>Thou art an emblem of the glow</l>
-    <l>Of beauty—the <adj value="open">unhidden</adj> heart,</l>
-    <l>The playful <noun value="closed">maziness</noun> of art</l>
-    <l>In old Alberto's daughter;</l>
+    <lb/>Fair river! in thy bright, <adj value="open">clear</adj> flow
+    <lb/>Of <adj value="open">crystal</adj>, wandering water,
+    <lb/>Thou art an emblem of the glow
+    <lb/>Of beauty—the <adj value="open">unhidden</adj> heart,
+    <lb/>The playful <noun value="closed">maziness</noun> of art
+    <lb/>In old Alberto's daughter;
   </stanza>
   <stanza>
-    <l>But when within thy wave she looks,</l>
-    <l>Which glistens then, and <verb value="closed">trembles</verb>,</l>
-    <l>Why, then, the prettiest of brooks</l>
-    <l>Her worshipper resembles;</l>
-    <l>For in his heart, as in thy stream,</l>
-    <l>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—</l>
-    <l>His heart which <verb value="closed">trembles</verb> at the beam</l>
-    <l>Of her <verb value="open">soul-searching</verb> eyes.</l>
+    <lb/>But when within thy wave she looks,
+    <lb/>Which glistens then, and <verb value="closed">trembles</verb>,
+    <lb/>Why, then, the prettiest of brooks
+    <lb/>Her worshipper resembles;
+    <lb/>For in his heart, as in thy stream,
+    <lb/>Her image <adv value="closed">deeply</adv> <verb value="closed">lies</verb>—
+    <lb/>His heart which <verb value="closed">trembles</verb> at the beam
+    <lb/>Of her <verb value="open">soul-searching</verb> eyes.
   </stanza>
 </poem>
