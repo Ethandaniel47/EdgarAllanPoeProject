@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>    
+    <meta>
+        <title>Fairyland</title>
+    </meta>
+    <stanza>
+        <l>Dim vales—and shadowy floods—</l>
+        <l>And cloudy-looking woods,</l>
+        <l>Whose forms we can't discover</l>
+        <l>For the tears that drip all over</l>
+        <l>Huge moons there wax and wane—</l>
+        <l>Again—again—again—</l>
+        <l>Every moment of the night—</l>
+        <l>Forever changing places—</l>
+        <l>And they put out the star-light</l>
+        <l>With the breath from their pale faces.</l>
+        <l>About twelve by the moon-dial</l>
+        <l>One more filmy than the rest</l>
+        <l>(A kind which, upon trial,</l>
+        <l>They have found to be the best)</l>
+        <l>Comes down—still down—and down</l>
+        <l>With its centre on the crown</l>
+        <l>Of a mountain's eminence,</l>
+        <l>While its wide circumference</l>
+        <l>In easy drapery falls</l>
+        <l>Over hamlets, over halls,</l>
+        <l>Wherever they may be—</l>
+        <l>O'er the strange woods—o'er the sea—</l>
+        <l>Over spirits on the wing—</l>
+        <l>Over every drowsy thing—</l>
+        <l>And buries them up quite</l>
+        <l>In a labyrinth of light—</l>
+        <l>And then, how deep!—O, deep!</l>
+        <l>Is the passion of their sleep.</l>
+        <l>In the morning they arise,</l>
+        <l>And their moony covering</l>
+        <l>Is soaring in the skies,</l>
+        <l>With the tempests as they toss,</l>
+        <l>Like—almost any thing—</l>
+        <l>Or a yellow Albatross.</l>
+        <l>They use that moon no more</l>
+        <l>For the same end as before—</l>
+        <l>Videlicet a tent—</l>
+        <l>Which I think extravagant:</l>
+        <l>Its atomies, however,</l>
+        <l>Into a shower dissever,</l>
+        <l>Of which those butterflies,</l>
+        <l>Of Earth, who seek the skies,</l>
+        <l>And so come down again</l>
+        <l>(Never-contented thing!)</l>
+        <l>Have brought a specimen</l>
+        <l>Upon their quivering wings.</l>
+    </stanza>
+</poem>

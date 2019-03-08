@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-
-    <title>SONG</title>
-
-    <line>I saw thee on thy bridal day,</line>
-    <line>When a burning blush came <prep value="closed">o'er</prep> thee,</line>
-    <line>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</line>
-    <line>The world all love before thee;</line>
-    
-    <line>And <prep value="closed">in</prep> thine eye a kindling light</line>
-    <line>(Whatever it might be)</line>
-    <line>Was all on Earth my aching sight</line>
-    <line>Of loveliness could see.</line>
-    
-    <line>That blush, perhaps, was maiden <noun value="open">shame</noun>:</line>
-    <line>As such it well may pass,</line>
-    <line>Though its glow hath <adj value="open">raised</adj> a fiercer flame</line>
-    <line><prep value="closed">In</prep> the breast of him, alas!</line>
-    
-    <line>Who saw thee on that bridal day,</line>
-    <line>When that deep blush would come <prep value="closed">o'er</prep> thee,</line>
-    <line>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</line>
-    <line>The world all love before thee.</line>
+    <meta>
+        <title>SONG</title>
+    </meta>
+    <stanza>
+        <l>I saw thee on thy bridal day,</l>
+        <l>When a burning blush came <prep value="closed">o'er</prep> thee,</l>
+        <l>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</l>
+        <l>The world all love before thee;</l>
+    </stanza>
+    <stanza>
+        <l>And <prep value="closed">in</prep> thine eye a kindling light</l>
+        <l>(Whatever it might be)</l>
+        <l>Was all on Earth my aching sight</l>
+        <l>Of loveliness could see.</l>
+    </stanza>
+    <stanza>
+        <l>That blush, perhaps, was maiden <noun value="open">shame</noun>:</l>
+        <l>As such it well may pass,</l>
+        <l>Though its glow hath <adj value="open">raised</adj> a fiercer flame</l>
+        <l><prep value="closed">In</prep> the breast of him, alas!</l>
+    </stanza>
+    <stanza>
+        <l>Who saw thee on that bridal day,</l>
+        <l>When that deep blush would come <prep value="closed">o'er</prep> thee,</l>
+        <l>Though happiness <adv value="closed">around</adv> thee <verb value="closed">lay</verb>,</l>
+        <l>The world all love before thee.</l>
+    </stanza>
 </poem>
