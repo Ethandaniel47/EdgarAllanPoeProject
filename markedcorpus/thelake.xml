@@ -15,7 +15,7 @@
     </stanza>
     <stanza>
         <lb/>But when the Night had thrown her pall
-        <lb/>Upon the spot, as upon all,
+        <lb/><prep value="closed">Upon</prep> the spot, as <prep value="closed">upon</prep> all,
         <lb/>And the mystic wind went by
         <lb/>Murmuring in melody—
         <lb/>Then—ah, then, I would <verb value="open">awake</verb>
