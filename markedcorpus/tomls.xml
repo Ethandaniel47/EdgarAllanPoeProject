@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>    
+    <meta>
+        <title>(2) To Marie Louise (Shew)</title>
+    </meta>
+    <stanza>
+        <l>Not long ago, the writer of these lines,</l>
+        <l>In the mad pride of intellectuality,</l>
+        <l>Maintained "the power of words"—denied that ever</l>
+        <l>A thought arose within the human brain</l>
+        <l>Beyond the utterance of the human tongue:</l>
+        <l>And now, as if in mockery of that boast,</l>
+        <l>Two words—two foreign soft dissyllables—</l>
+        <l>Italian tones, made only to be murmured</l>
+        <l>By angels dreaming in the moonlit "dew</l>
+        <l>That hangs like chains of pearl on Hermon hill,"—</l>
+        <l>Have stirred from out the abysses of his heart,</l>
+        <l>Unthought-like thoughts that are the souls of thought,</l>
+        <l>Richer, far wilder, far diviner visions</l>
+        <l>Than even the seraph harper, Israfel,</l>
+        <l>(Who has "the sweetest voice of all God's creatures,")</l>
+        <l>Could hope to utter. And I! my spells are broken.</l>
+        <l>The pen falls powerless from my shivering hand.</l>
+        <l>With thy dear name as text, though hidden by thee,</l>
+        <l>I cannot write—I cannot speak or think—</l>
+        <l>Alas, I cannot feel; for 'tis not feeling,</l>
+        <l>This standing motionless upon the golden</l>
+        <l>Threshold of the wide-open gate of dreams,</l>
+        <l>Gazing, entranced, adown the gorgeous vista,</l>
+        <l>And thrilling as I see, upon the right,</l>
+        <l>Upon the left, and all the way along,</l>
+        <l>Amid empurpled vapors, far away</l>
+        <l>To where the prospect terminates—thee only!</l>
+    </stanza>
+    </poem>
