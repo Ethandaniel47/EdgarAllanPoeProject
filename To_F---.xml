@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>TO F--</title>
+        <date>1845</date>
+    </metadata>
+    <body>
+        <stanza>
+            <lineBreak>Beloved! <prep value="closed">amid</prep> the earnest woes</lineBreak>
+            <lineBreak>That crowd <prep value="closed">around</prep> my earthly path--</lineBreak>
+            <lineBreak>(Drear path, alas! where grows</lineBreak>
+            <lineBreak>Not even one <adj value="closed">lonely</adj> rose)--</lineBreak>
+            <lineBreak>My <noun value="open">soul</noun> at least a <noun value="open">solace</noun> hath</lineBreak>
+            <lineBreak><prep value="closed">In</prep> <noun value="open">dreams</noun> of thee, and <prep value="closed">therein</prep> knows</lineBreak>
+            <lineBreak>An Eden of bland repose.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And thus thy memory is to me</lineBreak>
+            <lineBreak>Like some <adj vale="open">enchanted</adj> <adj value="closed">far-off</adj> isle</lineBreak>
+            <lineBreak><prep value="closed">In</prep> some tumultuous sea--</lineBreak>
+            <lineBreak>Some ocean <verb value="closed">throbbing</verb> <adj value="closed">far</adj> and <adj value="open">free</adj></lineBreak>
+            <lineBreak>With storm--but where meanwhile</lineBreak>
+            <lineBreak>Serenest skies continually</lineBreak>
+            <lineBreak>Just <prep value="open">o'er</prep> that one bright inland smile.</lineBreak>
+        </stanza>
+    </body>
+</poem>

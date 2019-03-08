@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>FOR ANNIE</title>
+        <data>1849</data>
+    </metadata>
+
+    <body>
+        <stanza>
+            <lineBreak>Thank <noun value="open">Heaven</noun>! the crisis--</lineBreak>
+            <lineBreak>The danger is past,</lineBreak>
+            <lineBreak>And the lingering illness</lineBreak>
+            <lineBreak>Is <prep value="open">over</prep> at last--</lineBreak>
+            <lineBreak>And the fever called "Living"</lineBreak>
+            <lineBreak>Is <verb value="closed">conquered</verb> at last.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>Sadly, I know,</lineBreak>
+            <lineBreak>I am <verb value="closed">shorn</verb> of my strength,</lineBreak>
+            <lineBreak>And no muscle I move</lineBreak>
+            <lineBreak>As I <verb value="closed">lie</verb> at full length--</lineBreak>
+            <lineBreak>But no matter!--I feel</lineBreak>
+            <lineBreak>I am better at length.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And I rest so composedly,</lineBreak>
+            <lineBreak>Now <prep value="closed">in</prep> my bed,</lineBreak>
+            <lineBreak>That any beholder</lineBreak>
+            <lineBreak>Might fancy me <adj value="closed">dead</adj>--</lineBreak>
+            <lineBreak>Might start at beholding me</lineBreak>
+            <lineBreak>Thinking me <adj value="closed">dead</adj>.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>The moaning and groaning,</lineBreak>
+            <lineBreak>The sighing and sobbing,</lineBreak>
+            <lineBreak>Are quieted now,</lineBreak>
+            <lineBreak>With that horrible throbbing</lineBreak>
+            <lineBreak>At heart:--ah, that horrible,</lineBreak>
+            <lineBreak>Horrible throbbing!</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>The sickness--the nausea--</lineBreak>
+            <lineBreak>The pitiless pain--</lineBreak>
+            <lineBreak>Have <verb value="open">ceased</verb>, with the fever</lineBreak>
+            <lineBreak>That maddened my brain--</lineBreak>
+            <lineBreak>With the fever called "Living"</lineBreak>
+            <lineBreak>That burned <prep value="closed">in</prep> my brain.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And oh! of all <noun value="closed">tortures</noun></lineBreak>
+            <lineBreak>That <noun value="closed">torture</noun> the worst</lineBreak>
+            <lineBreak>Has abated--the terrible</lineBreak>
+            <lineBreak><noun value="closed">Torture</noun> of thirst,</lineBreak>
+            <lineBreak>For the naphthaline river</lineBreak>
+            <lineBreak>Of Passion <verb value="closed">accurst</verb>:--</lineBreak>
+            <lineBreak>I have drank of a water</lineBreak>
+            <lineBreak>That <verb value="open">quenches</verb> all thirst:--</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>Of a water that flows,</lineBreak>
+            <lineBreak>With a lullaby sound,</lineBreak>
+            <lineBreak>From a spring but a very few</lineBreak>
+            <lineBreak>Feet <prep value="closed">under</prep> ground--</lineBreak>
+            <lineBreak>From a cavern not very far</lineBreak>
+            <lineBreak><prep value="closed">Down</prep> <prep value="closed">under</prep> ground.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And ah! let it never</lineBreak>
+            <lineBreak>Be foolishly said</lineBreak>
+            <lineBreak>That my room it is gloomy</lineBreak>
+            <lineBreak>And narrow my bed--</lineBreak>
+            <lineBreak>For man never slept</lineBreak>
+            <lineBreak><prep value="closed">In</prep> a different bed;</lineBreak>
+            <lineBreak>And, to sleep, you must slumber</lineBreak>
+            <lineBreak><prep value="closed">In</prep> just such a bed.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>My <adj value="closed">tantalized</adj> <noun value="open">spirit</noun></lineBreak>
+            <lineBreak>Here blandly reposes,</lineBreak>
+            <lineBreak><verb value="closed">Forgetting</verb>, or never</lineBreak>
+            <lineBreak><verb value="closed">Regretting</verb> its roses--</lineBreak>
+            <lineBreak>Its old agitations</lineBreak>
+            <lineBreak>Of myrtles and roses:</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>For now, while so quietly</lineBreak>
+            <lineBreak><verb value="closed">Lying</verb>, it fancies</lineBreak>
+            <lineBreak>A holier odor</lineBreak>
+            <lineBreak>About it, of pansies--</lineBreak>
+            <lineBreak>A rosemary odor,</lineBreak>
+            <lineBreak>Commingled with pansies--</lineBreak>
+            <lineBreak>With rue and the beautiful</lineBreak>
+            <lineBreak>Puritan pansies.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And so it <verb value="closed">lies</verb> happily,</lineBreak>
+            <lineBreak>Bathing in many</lineBreak>
+            <lineBreak>A dream of the truth</lineBreak>
+            <lineBreak>And the beauty of <persName>Annie</persName>--</lineBreak>
+            <lineBreak><verb value="closed">Drowned</verb> <prep value="closed">in</prep> a bath</lineBreak>
+            <lineBreak>Of the tresses of <persName>Annie</persName>.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>She tenderly kissed me,</lineBreak>
+            <lineBreak>She fondly caressed,</lineBreak>
+            <lineBreak>And then I <verb value="closed">fell</verb> gently</lineBreak>
+            <lineBreak>To sleep on her breast--</lineBreak>
+            <lineBreak><adv value="closed">Deeply</adv> to sleep</lineBreak>
+            <lineBreak>From the <noun value="open">heaven</noun> of her breast.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>When the light was <verb valeu="closed">extinguished</verb>,</lineBreak>
+            <lineBreak>She <verb value="closed">covered</verb> me warm,</lineBreak>
+            <lineBreak>And she prayed to the <noun value="open">angels</noun></lineBreak>
+            <lineBreak>To <verb value="closed">keep</verb> me from harm--</lineBreak>
+            <lineBreak>To the queen of the <noun value="open">angels</noun></lineBreak>
+            <lineBreak>To <verb value="closed">shield</verb> me from harm.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>And I <verb value="closed">lie</verb> so composedly,</lineBreak>
+            <lineBreak>Now <prep value="closed">in</prep> my bed</lineBreak>
+            <lineBreak>(Knowing her love)</lineBreak>
+            <lineBreak>That you fancy me <adj value="closed">dead</adj>--</lineBreak>
+            <lineBreak>And I <verb value="closed">rest</verb> so contentedly,</lineBreak>
+            <lineBreak>Now <prep value="closed">in</prep> my bed,</lineBreak>
+            <lineBreak>(With her love at my breast)</lineBreak>
+            <lineBreak>That you fancy me <adj value="closed">dead</adj>--</lineBreak>
+            <lineBreak>That you shudder to look at me.</lineBreak>
+            <lineBreak>Thinking me <adj value="closed">dead</adj>.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>But my heart it is brighter</lineBreak>
+            <lineBreak>Than all of the many</lineBreak>
+            <lineBreak><noun value="open">Stars</noun> <prep value="closed">in</prep> the sky,</lineBreak>
+            <lineBreak>For it sparkles with <persName>Annie</persName>--</lineBreak>
+            <lineBreak>It <verb value="open">glows</verb> with the light</lineBreak>
+            <lineBreak>Of the love of my <persName>Annie</persName>--</lineBreak>
+            <lineBreak>With the thought of the light</lineBreak>
+            <lineBreak>Of the eyes of my <persName>Annie</persName>.</lineBreak>
+        </stanza>
+    </body>
+</poem>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+    <metadata>
+        <title>THE CITY IN THE SEA.</title>
+        <date>1835</date>
+    </metadata>
+
+    <body>
+        <stanza>
+            <lineBreak>Lo! <noun value="closed">Death</noun> has <verb value="open">reared</verb> himself a <noun value="open">throne</noun></lineBreak>
+            <lineBreak><prep value="closed">In</prep> a strange city <verb value="closed">lying</verb> <adv value="closed">alone</adv></lineBreak>
+            <lineBreak>Far <prep value="closed">down</prep> <prep value="closed">within</prep> the dim West,</lineBreak>
+            <lineBreak>Where the good and the bad and the worst and the best</lineBreak>
+            <lineBreak>Have <verb value="closed">gone</verb> to their eternal <noun value="closed">rest</noun>.</lineBreak>
+            <lineBreak>There shrines and palaces and towers</lineBreak>
+            <lineBreak>(Time-eaten towers and tremble not!)</lineBreak>
+            <lineBreak>Resemble nothing that is ours.</lineBreak>
+            <lineBreak>Around, by <adj value="open">lifting</adj> winds <verb value="closed">forgot</verb>,</lineBreak>
+            <lineBreak><adv value="closed">Resignedly</adv> <prep value="closed">beneath</prep> the sky</lineBreak>
+            <lineBreak>The melancholy waters <verb value="closed">lie</verb>.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>No rays from the holy <noun value="open">Heaven</noun> <verb value="closed">come</verb> <prep value="closed">down</prep></lineBreak>
+            <lineBreak>On the long night-time of that town;</lineBreak>
+            <lineBreak>But light from <prep value="open">out</prep> the lurid sea</lineBreak>
+            <lineBreak>Streams <prep value="open">up</prep> the turrets silently--</lineBreak>
+            <lineBreak>Gleams <prep value="open">up</prep> the pinnacles far and <adj value="open">free</adj>--</lineBreak>
+            <lineBreak><prep value="open">Up</prep> domes--<prep value="open">up</prep> spires--<prep value="open">up</prep> kingly halls--</lineBreak>
+            <lineBreak><prep value="open">Up</prep> fanes--<prep value="open">up</prep> <placeName>Babylon</placeName>-like walls--</lineBreak>
+            <lineBreak><prep value="open">Up</prep> shadowy long-<adj value="closed">forgotten</adj> bowers</lineBreak>
+            <lineBreak>Of sculptured ivy and stone flowers--</lineBreak>
+            <lineBreak><prep value="open">Up</prep> many and many a marvellous shrine</lineBreak>
+            <lineBreak>Whose wreathed friezes intertwine</lineBreak>
+            <lineBreak>The viol, the violet, and the vine.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak><adv value="closed">Resignedly</adv> <prep value="closed">beneath</prep> the sky</lineBreak>
+            <lineBreak>The melancholy waters <verb value="closed">lie</verb>.</lineBreak>
+            <lineBreak>So blend the turrets and shadows there</lineBreak>
+            <lineBreak>That all seem pendulous <prep value="closed">in</prep> air,</lineBreak>
+            <lineBreak>While from a proud tower <prep value="closed">in</prep> the town</lineBreak>
+            <lineBreak><noun value="closed">Death</noun> looks gigantically <prep value="closed">down</prep>.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>There <adj value="open">open</adj> fanes and <adj value="open">gaping</adj> <noun value="closed">graves</noun></lineBreak>
+            <lineBreak>Yawn level with the luminous waves;</lineBreak>
+            <lineBreak>But not the riches there that <verb value="closed">lie</verb></lineBreak>
+            <lineBreak><prep value="closed">In</prep> each idol's diamond eye--</lineBreak>
+            <lineBreak>Not the gaily-jewelled <noun value="closed">dead</noun></lineBreak>
+            <lineBreak><verb value="closed">Tempt</verb> the waters from their bed;</lineBreak>
+            <lineBreak>For no ripples curl, alas!</lineBreak>
+            <lineBreak>Along that wilderness of glass--</lineBreak>
+            <lineBreak>No swellings tell that winds may be</lineBreak>
+            <lineBreak><prep value="open">Upon</prep> some far-off happier sea--</lineBreak>
+            <lineBreak>No heavings hint that winds have been</lineBreak>
+            <lineBreak>On seas less hideously serene.</lineBreak>
+        </stanza>
+
+        <stanza>
+            <lineBreak>But lo, a stir is <prep value="closed">in</prep> the air!</lineBreak>
+            <lineBreak>The wave--there is a movement there!</lineBreak>
+            <lineBreak>As if the towers had <verb value="open">thrust</verb> aside,</lineBreak>
+            <lineBreak><prep value="closed">In</prep> slightly <verb value="closed">sinking</verb>, the dull tide--</lineBreak>
+            <lineBreak>As if their tops had feebly <verb value="closed">given</verb></lineBreak>
+            <lineBreak>A <noun value="closed">void</noun> <prep value="closed">within</prep> the filmy <noun value="open">Heaven</noun>.</lineBreak>
+            <lineBreak>The waves have now a redder glow--</lineBreak>
+            <lineBreak>The hours are breathing faint and low--</lineBreak>
+            <lineBreak>And when, amid no earthly moans,</lineBreak>
+            <lineBreak><prep value="closed">Down</prep>, <prep value="closed">down</prep> that town shall settle hence,</lineBreak>
+            <lineBreak><noun value="closed">Hell</noun>, <verb value="open">rising</verb> from a thousand thrones,</lineBreak>
+            <lineBreak>Shall do it reverence.</lineBreak>
+        </stanza>
+    </body>
+</poem>
