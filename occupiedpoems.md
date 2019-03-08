@@ -15,12 +15,9 @@
 * Fairy Tail
 * To Science
 * A Paen
-
 * The Lake
-
-[//]: # (* Marie Louise (Shew))
-
-[//]: # (* (2) To Marie Louise (Shew))
+* Marie Louise (Shew))
+* (2) To Marie Louise (Shew))
 
 ## Kyle
 ### Round 1 & Round 2
