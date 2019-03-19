@@ -19,6 +19,14 @@
 * Marie Louise (Shew))
 * (2) To Marie Louise (Shew))
 
+### Round 3
+* Evening Star
+* Imitation
+* "The Happiest Day,"
+* Hymn. Translation from the Greek
+* Dreams
+
+
 ## Kyle
 ### Round 1 & Round 2
 * The Sleeper
@@ -31,6 +39,14 @@
 * Dreamland
 * To Zante
 * Hymn
+
+### Round 3
+* "In Youth I have known one"
+* Alone
+* To Isadore
+* The Village Street
+* The Forest Reverie
+
 
 ## Ethan
 ### Round 1
@@ -57,3 +73,11 @@
 * To the Same
 * The City in the Sea
 * The Sleeper,
+
+### Round 3
+* Al Aaraaf
+* Tamerlane
+* The Valley of Unrest
+* Israfel
+* To----("The bowers whereat, in dreams, I see")
+* A Dream
