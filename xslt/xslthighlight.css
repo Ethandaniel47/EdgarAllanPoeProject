@@ -1,0 +1,29 @@
+html{
+    background-color:black;
+    color:white;
+}
+.noun{
+    color:orange;
+}
+.verb{
+    color:lightgreen;
+}
+.foreign{
+    color:yellow;
+    font-weight:bold;
+}
+.adj{
+    color:red;
+}
+.adv{
+    color:aqua;
+}
+.ref{
+    color:darkorchid;
+}
+.open{
+    font-style:italic;
+}
+.closed{
+    text-decoration:underline;
+}
