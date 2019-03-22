@@ -5,7 +5,7 @@ poem = element poem{meta,stanza+}
 
 meta = element meta{title, date?}
 title = element title{text}
-date = element date{text}
+date = element date{xsd:gYear}
 
 stanza = element stanza{(lb, mixed{(noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign| det)*})+}
 
