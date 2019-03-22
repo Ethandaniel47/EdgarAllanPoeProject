@@ -8,28 +8,28 @@
         <date>1827</date>
     </meta>
     <stanza>
-        <lb/>Wreathed in myrtle, my sword I'll conceal,
+        <lb/>Wreathed in myrtle, my sword I'll <verb value="closed">conceal</verb>,
         <lb/>Like those champions devoted and brave,
-        <lb/>When they plunged in the tyrant their steel,
+        <lb/>When they <verb value="closed">plunged</verb> in the <noun value="closed">tyrant</noun> their steel,
         <lb/>And to Athens deliverance gave.
     </stanza>
     <stanza>
-        <lb/>Beloved heroes! your deathless souls roam
+        <lb/>Beloved heroes! your <adj value="open">deathless</adj> souls roam
         <lb/>In the joy breathing isles of the blest;
         <lb/>Where the mighty of old have their home—
-        <lb/>Where Achilles and Diomed rest.
+        <lb/>Where Achilles and Diomed <verb value="closed">rest</verb>.
     </stanza>
     <stanza>
-        <lb/>In fresh myrtle my blade I'll entwine,
+        <lb/>In fresh myrtle my blade I'll <verb value="closed">entwine</verb>,
         <lb/>Like Harmodius, the gallant and good,
-        <lb/>When he made at the tutelar shrine
-        <lb/>A libation of Tyranny's blood.
+        <lb/>When he made at the <foreign lang="latin">tutelar</foreign> shrine
+        <lb/>A <foreign lang="latin">libation</foreign> of Tyranny's <noun value="closed">blood</noun>.
     </stanza>
     <stanza>
         <lb/>Ye deliverers of Athens from shame!
-        <lb/>Ye avengers of Liberty's wrongs!
+        <lb/>Ye avengers of Liberty's <noun value="closed">wrongs</noun>!
         <lb/>Endless ages shall cherish your fame,
-        <lb/>Embalmed in their echoing songs!
+        <lb/><verb value="closed">Embalmed</verb> in their echoing songs!
     </stanza>
     
     

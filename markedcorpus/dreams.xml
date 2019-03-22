@@ -7,26 +7,26 @@
     
     <stanza>
         <lb/>Oh! that my young life were a lasting dream!
-        <lb/>My spirit not awakening, till the beam
+        <lb/>My spirit not <verb value="open">awakening</verb>, till the beam
         <lb/>Of an Eternity should bring the morrow.
-        <lb/>Yes! though that long dream were of hopeless sorrow,
+        <lb/>Yes! though that long dream were of <adj value="closed">hopeless</adj> sorrow,
         <lb/>'Twere better than the cold reality
-        <lb/>Of waking life, to him whose heart must be,
+        <lb/>Of <verb value="open">waking</verb> life, to him whose heart must be,
         <lb/>And hath been still, upon the lovely earth,
         <lb/>A chaos of deep passion, from his birth.
         <lb/>But should it be—that dream eternally
         <lb/>Continuing—as dreams have been to me
         <lb/>In my young boyhood—should it thus be given,
-        <lb/>'Twere folly still to hope for higher Heaven.
+        <lb/>'Twere folly still to hope for higher <noun value="open">Heaven</noun>.
         <lb/>For I have revelled when the sun was bright
         <lb/>I' the summer sky, in dreams of living light
         <lb/>And loveliness,—have left my very heart
-        <lb/>Inclines of my imaginary apart1
+        <lb/>Inclines of my imaginary apart
         <lb/>From mine own home, with beings that have been
         <lb/>Of mine own thought—what more could I have seen?
         <lb/>'Twas once—and only once—and the wild hour
         <lb/>From my remembrance shall not pass—some power
-        <lb/>Or spell had bound me—'twas the chilly wind
+        <lb/>Or spell had <verb value="closed">bound</verb> me—'twas the chilly wind
         <lb/>Came o'er me in the night, and left behind
         <lb/>Its image on my spirit—or the moon
         <lb/>Shone on my slumbers in her lofty noon
@@ -35,7 +35,7 @@
         <lb/>I have been happy, though in a dream.
         <lb/>I have been happy—and I love the theme:
         <lb/>Dreams! in their vivid coloring of life
-        <lb/>As in that fleeting, shadowy, misty strife
+        <lb/>As in that fleeting, <adj value="closed">shadowy</adj>, <adj value="closed">misty</adj> strife
         <lb/>Of semblance with reality which brings
         <lb/>To the delirious eye, more lovely things
         <lb/>Of Paradise and Love—and all my own!—

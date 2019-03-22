@@ -8,20 +8,20 @@
     
     <stanza>
         <lb/>The happiest day—the happiest hour
-        <lb/>My seared and blighted heart hath known,
-        <lb/>The highest hope of pride and power,
-        <lb/>I feel hath flown.
+        <lb/>My seared and <verb value="closed">blighted</verb> heart hath known,
+        <lb/>The <adj value="open">highest</adj> hope of pride and power,
+        <lb/>I feel hath <verb value="open">flown</verb>.
     </stanza>
     <stanza>
-        <lb/>Of power! said I? Yes! such I ween
-        <lb/>But they have vanished long, alas!
+        <lb/>Of <noun value="open">power</noun>! said I? Yes! such I ween
+        <lb/>But they have <verb value="closed">vanished</verb> long, alas!
         <lb/>The visions of my youth have been—
         <lb/>But let them pass.
     </stanza>
     <stanza>
         <lb/>And pride, what have I now with thee?
         <lb/>Another brow may ev'n inherit
-        <lb/>The venom thou hast poured on me—
+        <lb/>The venom thou hast <verb value="closed">poured</verb> on me—
         <lb/>Be still my spirit!
     </stanza>
     <stanza>
@@ -31,15 +31,15 @@
         <lb/>I feel have been:
     </stanza>
     <stanza>
-        <lb/>But were that hope of pride and power
-        <lb/>Now offered with the pain
+        <lb/>But were that hope of pride and <noun value="closed">power</noun>
+        <lb/>Now offered with the <noun value="closed">pain</noun>
         <lb/>Ev'n then I felt—that brightest hour
         <lb/>I would not live again:
     </stanza>
     <stanza>
         <lb/>For on its wing was dark alloy
-        <lb/>And as it fluttered—fell
-        <lb/>An essence—powerful to destroy
+        <lb/>And as it fluttered—<verb value="closed">fell</verb>
+        <lb/>An essence—powerful to <verb value="closed">destroy</verb>
         <lb/>A soul that knew it well.
     </stanza>    
 </poem>
