@@ -1,0 +1,56 @@
+/* Predfined HTML css */
+html{
+    background-image:url("sanctum2back.jpg");
+}
+h1{
+    color:black;
+}
+h2{
+    margin-left:15px;
+}
+/* Class CSS */
+.menubar{
+    background-color:green;
+}
+.mainbody{
+   /* background-color:rgba(0,250,154, 0.5);*/
+   background-color:rgba(143,188,143, 0.8);
+   flex-direction:column;
+   align-items:center;
+   display:flex;
+}
+.hover{
+    color:aqua;
+}
+.hover:hover{
+    color:yellow;
+}
+.characterbin{
+    flex-direction:row;
+    display:flex;
+    padding-bottom:10px;
+}
+.character{
+    flex-direction:column;
+    align-items:center;
+    display:flex;
+}
+.charimg{
+    width:70%;
+    height:100%;
+}
+.charname{
+    /* text-align:center;*/
+    font-weight:bold;
+}
+.screenshot{
+    width:70%;
+    height:70%;
+    margin-left:auto;
+    margin-right:auto;
+}
+/* ID Css */
+#pghere{
+    color:aqua;
+    
+}
