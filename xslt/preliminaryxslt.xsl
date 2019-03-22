@@ -14,10 +14,10 @@
             <body>
                 <!-- First, we get the title of the poem -->
                 <h1>
-                    <xsl:apply-templates select="/poem/meta/title"/>
+                    <xsl:apply-templates select="//title"/>
                 </h1>
                 <!-- Now we use apply templates this way to see if there even is a date. That way there's no random empty h2 elements -->
-                <xsl:apply-templates select="/poem/meta/date" />
+                <xsl:apply-templates select="//date" />
                 <xsl:apply-templates select="/poem/stanza" />
             </body>
         </html>
