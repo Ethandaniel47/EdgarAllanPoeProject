@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>   
+    <meta>
+        <title>"The Happiest Day"</title>
+        <date>1827</date>
+    </meta>
+    
+    <stanza>
+        <lb/>The happiest day—the happiest hour
+        <lb/>My seared and blighted heart hath known,
+        <lb/>The highest hope of pride and power,
+        <lb/>I feel hath flown.
+    </stanza>
+    <stanza>
+        <lb/>Of power! said I? Yes! such I ween
+        <lb/>But they have vanished long, alas!
+        <lb/>The visions of my youth have been—
+        <lb/>But let them pass.
+    </stanza>
+    <stanza>
+        <lb/>And pride, what have I now with thee?
+        <lb/>Another brow may ev'n inherit
+        <lb/>The venom thou hast poured on me—
+        <lb/>Be still my spirit!
+    </stanza>
+    <stanza>
+        <lb/>The happiest day—the happiest hour
+        <lb/>Mine eyes shall see—have ever seen
+        <lb/>The brightest glance of pride and power
+        <lb/>I feel have been:
+    </stanza>
+    <stanza>
+        <lb/>But were that hope of pride and power
+        <lb/>Now offered with the pain
+        <lb/>Ev'n then I felt—that brightest hour
+        <lb/>I would not live again:
+    </stanza>
+    <stanza>
+        <lb/>For on its wing was dark alloy
+        <lb/>And as it fluttered—fell
+        <lb/>An essence—powerful to destroy
+        <lb/>A soul that knew it well.
+    </stanza>    
+</poem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <meta>
+        <title>Hymn (translation from the Greek
+        Hymn to Aristogeiton and Harmodius</title>
+        <date>1827</date>
+    </meta>
+    <stanza>
+        <lb/>Wreathed in myrtle, my sword I'll conceal,
+        <lb/>Like those champions devoted and brave,
+        <lb/>When they plunged in the tyrant their steel,
+        <lb/>And to Athens deliverance gave.
+    </stanza>
+    <stanza>
+        <lb/>Beloved heroes! your deathless souls roam
+        <lb/>In the joy breathing isles of the blest;
+        <lb/>Where the mighty of old have their home—
+        <lb/>Where Achilles and Diomed rest.
+    </stanza>
+    <stanza>
+        <lb/>In fresh myrtle my blade I'll entwine,
+        <lb/>Like Harmodius, the gallant and good,
+        <lb/>When he made at the tutelar shrine
+        <lb/>A libation of Tyranny's blood.
+    </stanza>
+    <stanza>
+        <lb/>Ye deliverers of Athens from shame!
+        <lb/>Ye avengers of Liberty's wrongs!
+        <lb/>Endless ages shall cherish your fame,
+        <lb/>Embalmed in their echoing songs!
+    </stanza>
+    
+    
+    
+</poem>

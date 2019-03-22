@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <meta>
+        <title>Imitation</title>
+        <date>1827</date>
+    </meta>
+    <stanza>
+        <lb/>A <adj value="closed">dark</adj> unfathomed tide
+        <lb/>Of interminable pride—
+        <lb/>A mystery, and a dream,
+        <lb/>Should my early life seem;
+        <lb/>I say that dream was fraught
+        <lb/>With a wild and waking thought
+        <lb/>Of beings that have been,
+        <lb/>Which my spirit hath not seen,
+        <lb/>Had I let them pass me by,
+        <lb/>With a dreaming eye!
+        <lb/>Let none of earth inherit
+        <lb/>That vision on my spirit;
+        <lb/>Those thoughts I would control,
+        <lb/>As a spell upon his soul:
+        <lb/>For that bright hope at last
+        <lb/>And that light time have past,
+        <lb/>And my wordly <noun value="closed">rest</noun> hath gone
+        <lb/>With a sigh as it passed on:
+        <lb/>I care not though it perish
+        <lb/>With a thought I then did cherish.
+    </stanza>
+</poem>
