@@ -21,6 +21,21 @@ html{
 .ref{
     color:darkorchid;
 }
+.prep{
+    color:khaki;
+} 
+.conj{
+    color:green;
+}
+.inter{
+    color:gray;
+}
+.pron{
+    color:lemonchiffon;
+}
+.det{
+    color:darksalmon;   
+}
 .open{
     font-style:italic;
 }
