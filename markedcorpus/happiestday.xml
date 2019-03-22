@@ -7,7 +7,7 @@
     </meta>
     
     <stanza>
-        <lb/>The happiest day—the happiest hour
+        <lb/>The <adj value="open">happiest</adj> day—the <adj value="open">happiest</adj> hour
         <lb/>My seared and <verb value="closed">blighted</verb> heart hath known,
         <lb/>The <adj value="open">highest</adj> hope of pride and power,
         <lb/>I feel hath <verb value="open">flown</verb>.
@@ -25,7 +25,7 @@
         <lb/>Be still my spirit!
     </stanza>
     <stanza>
-        <lb/>The happiest day—the happiest hour
+        <lb/>The <adj value="open">happiest</adj> day—the <adj value="open">happiest</adj> hour
         <lb/>Mine eyes shall see—have ever seen
         <lb/>The brightest glance of pride and power
         <lb/>I feel have been:
