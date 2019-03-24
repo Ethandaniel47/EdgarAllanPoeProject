@@ -1,0 +1,34 @@
+
+html{
+    background-image:url("Background-image.jpg");
+}
+h1{
+    color:black;
+    background-color: white;
+}
+h2{
+    margin-left:15px;
+}
+
+.menubar{
+    background-color:white;
+}
+.mainbody{
+   
+   background-color:white;
+   flex-direction:column;
+   align-items:center;
+   display:flex;
+}
+.hover{
+    color:black;
+}
+.hover:hover{
+    color:orange;
+}
+
+
+#pghere{
+    color:black;
+    
+}
