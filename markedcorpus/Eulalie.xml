@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <metadata>
+    <meta>
         <title>EULALIE</title>
         <date>1845</date>
-    </metadata>
-    <body>
+    </meta>
+  
         <stanza>
-            <lineBreak>I <verb value="closed">dwelt</verb>
-                <adv value="closed">alone</adv></lineBreak>
-            <lineBreak><prep value="closed">In</prep> a world of moan,</lineBreak>
-            <lineBreak>And my <noun value="open">soul</noun> was a <adj value="closed"
-                    >stagnant</adj> tide,</lineBreak>
-            <lineBreak>Till the fair and gentle <persName>Eulalie</persName> became my blushing
-                bride--</lineBreak>
-            <lineBreak>Till the yellow-haired young <persName>Eulalie</persName> became my smiling
-                bride.</lineBreak>
-            <lineBreak>Ah, less--less bright</lineBreak>
-            <lineBreak>The <noun value="open">stars</noun> of the night</lineBreak>
-            <lineBreak>Than the eyes of the <adj value="open">radiant</adj> girl!</lineBreak>
-            <lineBreak>And never a flake</lineBreak>
-            <lineBreak>That the vapor can make</lineBreak>
-            <lineBreak>With the moon-tints of purple and pearl,</lineBreak>
-            <lineBreak>Can vie with the modest <persName>Eulalie</persName>'s most unregarded
-                curl--</lineBreak>
-            <lineBreak>Can compare with the bright-eyed <persName>Eulalie</persName>'s most humble
-                and careless curl.</lineBreak>
-            <lineBreak>Now <noun value="closed">Doubt</noun>--now <noun value="closed">Pain</noun></lineBreak>
-            <lineBreak><verb value="closed">Come</verb> never again,</lineBreak>
-            <lineBreak>For her <noun value="open">soul</noun> <verb value="open">gives</verb> me sigh for sigh,</lineBreak>
-            <lineBreak>And all day long</lineBreak>
-            <lineBreak><verb value="open">Shines</verb>, bright and <adj value="open">strong</adj>,</lineBreak>
-            <lineBreak>Astarté <prep value="closed">within</prep> the <noun value="open">sky</noun>,</lineBreak>
-            <lineBreak>While ever to her dear <persName>Eulalie</persName> <verb value="open">upturns</verb> her matron eye--</lineBreak>
-            <lineBreak>While ever to her young <persName>Eulalie</persName> <verb value="open">upturns</verb> her violet eye.</lineBreak>
+            <lb/>I <verb value="closed">dwelt</verb>
+                <adv value="closed">alone</adv>
+            <lb/><prep value="closed">In</prep> a world of moan,
+            <lb/>And my <noun value="open">soul</noun> was a <adj value="closed"
+                    >stagnant</adj> tide,
+            <lb/>Till the fair and gentle Eulalie became my blushing
+                bride--
+            <lb/>Till the yellow-haired young Eulalie became my smiling
+                bride.
+            <lb/>Ah, less--less bright
+            <lb/>The <noun value="open">stars</noun> of the night
+            <lb/>Than the eyes of the <adj value="open">radiant</adj> girl!
+            <lb/>And never a flake
+            <lb/>That the vapor can make
+            <lb/>With the moon-tints of purple and pearl,
+            <lb/>Can vie with the modest Eulalie's most unregarded
+                curl--
+            <lb/>Can compare with the bright-eyed Eulalie's most humble
+                and careless curl.
+            <lb/>Now <noun value="closed">Doubt</noun>--now <noun value="closed">Pain</noun>
+            <lb/><verb value="closed">Come</verb> never again,
+            <lb/>For her <noun value="open">soul</noun> <verb value="open">gives</verb> me sigh for sigh,
+            <lb/>And all day long
+            <lb/><verb value="open">Shines</verb>, bright and <adj value="open">strong</adj>,
+            <lb/>Astarté <prep value="closed">within</prep> the <noun value="open">sky</noun>,
+            <lb/>While ever to her dear Eulalie <verb value="open">upturns</verb> her matron eye--
+            <lb/>While ever to her young Eulalie <verb value="open">upturns</verb> her violet eye.
         </stanza>
-    </body>
+    
 </poem>

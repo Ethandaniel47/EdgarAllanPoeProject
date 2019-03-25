@@ -1,149 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<poem>
-    <metadata>
-        <title>The Raven</title>
-    </metadata>
-    <body>
-        <stanza>Once <release spatial="up">upon</release> a midnight dreary, while I pondered, weak
-            and weary, <release spatial="up">Over</release> many a quaint and curious volume of
-                <release spatial="out">forgotten</release> lore— While I nodded, nearly napping,
-            suddenly <release spatial="out">there</release><capture spatial="in">came</capture> a
-            tapping, As of some one gently rapping, rapping<liminal>at</liminal>my <capture spatial="in"
-                >chamber</capture>
-            <liminal>door</liminal>. “’Tis some<capture spatial="in">visitor</capture>,” I muttered,
-            “tapping<liminal>at</liminal>my <capture spatial="in">chamber</capture>
-            <liminal>door</liminal>— Only this and nothing more.”</stanza>
-
-        <stanza>Ah, distinctly I remember it was<capture spatial="in">in</capture>the bleak December; And each <release
-                spatial="out">separate</release> dying ember wrought its ghost <release spatial="up"
-                >upon</release> the floor. Eagerly I wished the morrow;—vainly I had sought to
-            borrow From my books <capture temporal="stop">surcease</capture> of sorrow—sorrow for
-            the <release spatial="out">lost</release> Lenore— For the rare and <release
-                spatial="out">radiant</release> maiden whom the <release spiritual="divine"
-                >angels</release> name Lenore— Nameless <capture spatial="in">here</capture> for
-                <release temporal="eternal">evermore</release>.</stanza>
-        
-        <stanza>And the silken, sad, uncertain rustling of each purple curtain Thrilled me—<capture
-                spatial="in">filled</capture> me with fantastic terrors <capture
-                temporal="transient">never</capture> felt before; So that <liminal>now</liminal>, to
-                <capture spatial-temporal="stop">still</capture> the beating of my heart, I stood
-            repeating “’Tis some <capture spatial="in">visitor</capture> entreating <capture
-                spatial="in">entrance</capture><liminal>at</liminal>my <capture spatial="in">chamber</capture>
-            <liminal>door</liminal>— Some late <capture spatial="in">visitor</capture> entreating
-                <capture spatial="in">entrance</capture><liminal>at</liminal>my <capture spatial="in"
-                >chamber</capture>
-            <liminal>door</liminal>;— This it is and nothing more.”</stanza>
-        
-        <stanza>Presently my soul <release spatial="out">grew</release> stronger; <capture
-                temporal="stop">hesitating</capture> then no longer, “Sir,” said I, “or Madam, truly
-            your forgiveness I <capture spatial="in">implore</capture>; But the fact is I was napping, and so gently you <capture
-                spatial="in">came</capture> rapping, And so faintly you <capture spatial="in"
-                >came</capture> tapping, tapping<liminal>at</liminal>my <capture spatial="in">chamber</capture>
-            <liminal>door</liminal>, That I scarce was sure I heard you”—<capture spatial="in"
-                >here</capture> I <release spatial="out">opened</release> wide the
-                <liminal>door</liminal>;— Darkness t<capture spatial="in">here</capture> and nothing
-            more.</stanza>
-        
-        <stanza><capture spatial="in">Deep</capture> <capture spatial="in">into</capture> that darkness peering, long I stood t<capture spatial="in">here</capture>
-            wondering, fearing, Doubting, dreaming dreams no mortal ever dared to dream before; But
-            the silence was <capture spatial="in">unbroken</capture>, and the <capture spatial-temporal="stop">still</capture>ness
-            <release spatial="out">gave</release> no token, And the only word t<capture spatial="in">here</capture> spoken was the
-            whispered word, “Lenore?” This I whispered, and an echo murmured <capture spatial="in">back</capture> the word,
-            “Lenore!”— Merely this and nothing more.</stanza>
-        
-        <stanza><capture spatial="in">Back</capture> <capture spatial="in">into</capture> the <capture spatial="in">chamber</capture> turning, all my soul <capture spatial="in">within</capture> me
-            burning, Soon again I heard a tapping somewhat louder than before. “Surely,” said I,
-            “surely that is something<liminal>at</liminal>my <liminal>window</liminal> lattice; Let me see, then, what t<capture
-                spatial="in">here</capture>at is, and this <capture spatial="in">mystery</capture> <release spatial="out">explore</release>— Let my heart be <capture
-                spatial-temporal="stop">still</capture> a moment and this <capture spatial="in">mystery</capture> <release spatial="out">explore</release>;— ’Tis the
-            wind and nothing more!”</stanza>
-        
-        <stanza><release spatial="out">Open</release> <capture spatial="in">here</capture> I <release spatial="out">flung</release> the <capture spatial="in">shutter</capture>, when, with many a
-            flirt and flutter, In t<capture spatial="in">here</capture> stepped a stately Raven of
-            the saintly days of yore; Not the least obeisance made he; not a minute <capture temporal="stop">stopped</capture> or
-            <capture temporal="stop">stayed</capture> he; But, with mien of lord or lady, perched <release spatial="up">above</release> my <capture spatial="in"
-                >chamber</capture>
-            <liminal>door</liminal>— Perched <release spatial="up">upon</release> a bust of Pallas
-            just <release spatial="up">above</release> my <capture spatial="in">chamber</capture>
-            <liminal>door</liminal>— Perched, and sat, and nothing more.</stanza>
-        
-        <stanza>Then this ebony bird beguiling my sad fancy <capture spatial="in">into</capture> smiling, By the <capture spatial="down">grave</capture> and stern
-            decorum of the countenance it wore, “Though thy crest be shorn and <release spatial="off">shaven</release>, thou,” I
-            said, “art sure no craven, Ghastly grim and ancient Raven wandering from the Nightly
-            shore— Tell me what thy lordly name is<capture spatial="on">on</capture>the Night’s Plutonian shore!” Quoth the Raven
-                “<capture temporal="transient">Nevermore</capture>.”</stanza>
-        
-        <stanza>Much I marvelled this ungainly fowl to hear discourse so plainly, Though its answer
-            little meaning—little relevancy <capture spatial="on">bore</capture>; For we cannot help agreeing that no living human
-            being Ever yet was blessed with seeing bird <release spatial="up">above</release> his <capture spatial="in"
-                >chamber</capture>
-            <liminal>door</liminal>— Bird or beast <release spatial="up">upon</release> the
-            sculptured bust <release spatial="up">above</release> his <capture spatial="in">chamber</capture>
-            <liminal>door</liminal>, With such name as “<capture temporal="transient"
-                >Nevermore</capture>.”</stanza>
-        
-        <stanza>But the Raven, sitting lonely<capture spatial="on">on</capture>the placid bust, spoke only That one word, as if
-            his soul<capture spatial="in">in</capture>that one word he did <release spatial="out">outpour</release>. Nothing <release spatial="out">farther</release> then he uttered—not a feather
-            then he fluttered— Till I scarcely more than muttered “Other friends have <release spatial="out">flown</release> before—
-            On the morrow he will <release spatial="out">leave</release> me, as my Hopes have <release spatial="out">flown</release> before.” Then the bird said
-                “<capture temporal="transient">Nevermore</capture>.”</stanza>
-        
-        <stanza>Startled<liminal>at</liminal>the <capture spatial-temporal="stop">still</capture>ness<release spatial="off">broken</release>by reply
-            so aptly spoken, “Doubtless,” said I, “what it utters is its only stock and store <capture spatial="in">Caught</capture>
-            from some unhappy master whom unmerciful Disaster Followed fast and followed faster till
-            his songs one burden <capture spatial="on">bore</capture>— Till the dirges of his Hope that melancholy burden <capture spatial="on">bore</capture> Of
-                ‘Never—<capture temporal="transient">nevermore</capture>’.”</stanza>
-       
-        <stanza>But the Raven <capture spatial-temporal="stop">still</capture> beguiling all my
-            fancy <capture spatial="in">into</capture> smiling, Straight I wheeled a cushioned seat<capture spatial="in">in</capture>front of bird, and bust and
-                <liminal>door</liminal>; Then, <release spatial="up">upon</release> the velvet
-            sinking, I <capture spatial="in">betook</capture> myself to <capture spatial="on">linking</capture> Fancy <capture spatial="on">unto</capture> fancy, thinking what this ominous bird of
-            yore— What this grim, ungainly, ghastly, gaunt, and ominous bird of yore Meant<capture spatial="in">in</capture>            croaking “<capture temporal="transient">Nevermore</capture>.”</stanza>
-       
-        <stanza>This I sat <capture spatial="in">engaged</capture><capture spatial="in">in</capture>guessing, but no syllable expressing To the fowl whose fiery
-            eyes <liminal>now</liminal> burned <capture spatial="in">into</capture> my bosom’s <capture spatial="in">core</capture>; This and more I sat <release spatial="out">divining</release>,
-            with my head<liminal>at</liminal>ease <capture spatial="in">reclining</capture> On the cushion’s velvet<release spatial="out">lining</release> that the lamp-light
-            gloated <release spatial="above">o’er</release>, But whose velvet-violet<release spatial="out">lining</release> with the lamp-light gloating <release spatial="above">o’er</release>, She
-            shall<capture spatial="down">press</capture>, ah, <capture temporal="transient">nevermore</capture>!</stanza>
-      
-        <stanza>Then, methought, the air <release spatial="out">grew</release> denser, perfumed from
-            an <capture spatial="hidden">unseen</capture> censer <release spatial="out">Swung</release> by <release spiritual="divine">Seraphim</release> whose foot-falls tinkled<capture spatial="on">on</capture>the tufted floor.
-            “Wretch,” I cried, “thy <release spiritual="divine">God</release> hath lent thee—by these <release spiritual="divine"
-                >angels</release> he hath<release spatial="out">sent</release> thee <release spatial="off">respite</release>—<release spatial="off">respite</release> and <release spatial="off">nepenthe</release> from thy memories
-            of Lenore; Quaff, oh quaff this kind <release spatial="off">nepenthe</release> and <release temporal="out">forget</release> this <release spatial="out"
-                >lost</release> Lenore!” Quoth the Raven “<capture temporal="transient"
-                >Nevermore</capture>.”</stanza>
-      
-        <stanza>“Prophet!” said I, “thing of evil!—prophet <capture spatial-temporal="stop"
-                >still</capture>, if bird or <capture spiritual="infernal">devil</capture>!— Whether Tempter<release spatial="out">sent</release>, or whether tempest <release spatial="out">tossed</release>
-            thee <capture spatial="in">here</capture> ashore, <capture spatial="alone">Desolate</capture> yet all undaunted,<capture spatial="on">on</capture>this
-            <capture spatial="alone">desert</capture> land enchanted— On this <capture spatial="in">home</capture> by Horror <capture spiritual="infernal">haunted</capture>—tell me truly, I <capture spatial="in">implore</capture>— Is
-                t<capture spatial="in">here</capture>—is t<capture spatial="in">here</capture> balm
-           <capture spatial="in">in</capture>Gilead?—tell me—tell me, I <capture spatial="in">implore</capture>!” Quoth the Raven “<capture temporal="transient"
-                >Nevermore</capture>.”</stanza>
-       
-        <stanza>“Prophet!” said I, “thing of evil!—prophet <capture spatial-temporal="stop"
-                >still</capture>, if bird or <capture spiritual="infernal">devil</capture>! By that <release spiritual="divine">Heaven</release> that bends <release spatial="up">above</release> us—by that <release spiritual="divine">God</release>
-            we both adore— Tell this soul with sorrow <capture spatial="on">laden</capture> if, <capture spatial="in">within</capture> the distant Aidenn, It shall
-            <capture spatial="on">clasp</capture> a sainted maiden whom the <release spiritual="divine">angels</release> name
-            Lenore— <capture spatial="on">Clasp</capture> a rare and <release spatial="out">radiant</release> maiden whom the
-                <release spiritual="divine">angels</release> name Lenore.” Quoth the Raven
-                “<capture temporal="transient">nevermore</capture>.”</stanza>
-       
-        <stanza>“Be that word our sign of <release spatial="out">parting</release>, bird or fiend!” I shrieked, <release spatial="up">upstarting</release>— “Get thee
-            <capture spatial="in">back</capture> <capture spatial="in">into</capture> the tempest and the Night’s Plutonian shore! <release spatial="out">Leave</release> no black plume as a token
-            of that <capture spatial="hidden">lie</capture> thy soul hath spoken! <release spatial="out">Leave</release> my <capture spatial="alone">loneliness</capture> <capture spatial="in">unbroken</capture>!—<release spatail="out">quit</release> the bust <release spatial="up">above</release> my
-                <liminal>door</liminal>! <release spatail="out">Take</release> thy beak from<release spatail="out">out</release> my heart, and take thy form from<release spatail="off">off</release>
-            my <liminal>door</liminal>!” Quoth the Raven “<capture temporal="transient"
-                >Nevermore</capture>.”</stanza>
-       
-        <stanza>And the Raven, <capture temporal="transient">never</capture> flitting, <capture
-                spatial-temporal="stop">still</capture> is sitting, <capture spatial-temporal="stop"
-                >still</capture> is sitting On the pallid bust of Pallas just <release spatial="up">above</release> my <capture
-                spatial="in">chamber</capture>
-            <liminal>door</liminal>; And his eyes have all the seeming of a <capture spiritual="infernal">demon</capture>’s that is
-            dreaming, And the lamp-light o’er him streaming <release spatial="out">throws</release> his shadow<capture spatial="on">on</capture>the floor; And my
-            soul from<release spatail="out">out</release> that shadow that <capture spatial="hidden">lie</capture>s floating<capture spatial="on">on</capture>the floor Shall be <release spatial="up">lifted</release>—<capture
-                temporal="transient">nevermore</capture>!</stanza>
-    </body>
+<poem><meta><title>THE RAVEN</title>
+    <date>1845</date></meta>
+    
+    <stanza><lb/>Once upon a midnight dreary, while I pondered, weak and weary,
+        <lb/><prep value="open">Over</prep> many a quaint and curious volume of <adj value="closed">forgotten</adj> lore--
+        <lb/>While I nodded, nearly napping, suddenly there came a tapping,
+        <lb/>As of some one gently rapping--rapping at my <noun value="closed">chamber</noun> door.
+        <lb/>"'Tis some visitor," I muttered, "tapping at my <noun value="closed">chamber</noun> door--
+        <lb/>Only this and nothing more."</stanza>
+    
+    <stanza><lb/>Ah, distinctly I remember, it was <prep value="closed">in</prep> the bleak December,
+        <lb/>And each <adj value="open">separate</adj> <adj value="closed">dying</adj> ember wrought its <noun value="closed">ghost</noun> upon the floor.
+        <lb/>Eagerly I wished the morrow;--vainly I had sought to borrow
+        <lb/>From my books <verb value="closed">surcease</verb> of sorrow--sorrow for the <adj value="closed">lost</adj> Lenore--
+        <lb/>For the rare and <adj value="open">radiant</adj> maiden whom the <noun value="open">angels</noun> name Lenore--
+        <lb/>Nameless here for <noun value="open">evermore</noun>.</stanza>
+    
+    <stanza><lb/>And the silken sad uncertain rustling of each purple curtain
+        <lb/>Thrilled me--<verb value="open">filled</verb> me with fantastic terrors <adv value="closed">never</adv> felt before;
+        <lb/>So that now, to <verb value="closed">still</verb> the beating of my heart, I stood repeating
+        <lb/>"'Tis some visitor entreating <noun value="open">entrance</noun> at my <noun value="closed">chamber</noun> door--
+        <lb/>Some late visitor entreating <noun value="open">entrance</noun> at my <noun value="closed">chamber</noun> door;--
+        <lb/>This it is and nothing more."</stanza>
+    
+    <stanza><lb/>Presently my soul <verb value="open">grew</verb> stronger; <verb value="closed">hesitating</verb> then no longer,
+        <lb/>"Sir," said I, "or Madam, truly your forgiveness I implore;
+        <lb/>But the fact is I was napping, and so gently you came rapping,
+        <lb/>And so faintly you came tapping--tapping at my <noun value="closed">chamber</noun> door,
+        <lb/>That I scarce was sure I heard you"--here I <verb value="open">opened</verb> <adv value="open">wide</adv> the door:--
+        <lb/>Darkness there and nothing more.</stanza>
+    
+    <stanza><lb/><adj value="closed">Deep</adj> <prep value="closed">into</prep> that darkness peering, long I stood there wondering, fearing,
+        <lb/>Doubting, dreaming dreams no mortal ever dared to dream before;
+        <lb/>But the silence was <verb value="closed">unbroken</verb>, and the darkness gave no token,
+        <lb/>And the only word there spoken was the whispered word, "Lenore!"
+        <lb/>This I whispered, and an echo murmured back the word, "Lenore!"
+        <lb/>Merely this and nothing more.</stanza>
+    
+    <stanza><lb/>Back <prep value="closed">into</prep> the <noun value="closed">chamber</noun> turning, all my soul <prep value="closed">within</prep> me burning,
+        <lb/>Soon I heard again a tapping, somewhat louder than before.
+        <lb/>"Surely," said I, "surely that is something at my window lattice;
+        <lb/>Let me see, then, what thereat is, and this mystery explore--
+        <lb/>Let my heart be <adj value="closed">still</adj> a moment, and this mystery explore;--
+        <lb/>'Tis the wind and nothing more."</stanza>
+    
+    <stanza><lb/><adj value="open">Open</adj> here I <verb value="open">flung</verb> the shutter, when, with many a flirt and flutter,
+        <lb/><prep value="closed">In</prep> there stepped a stately Raven of the saintly days of yore;
+        <lb/>Not the least obeisance made he: not an instant <verb value="closed">stopped</verb> or <verb value="closed">stayed</verb> he;
+        <lb/>But, with mien of lord or lady, perched <prep value="open">above</prep> my <noun value="closed">chamber</noun> door--
+        <lb/>Perched upon a bust of <ref value="mythological">Pallas</ref> just <prep value="open">above</prep> my <noun value="closed">chamber</noun> door--
+        <lb/>Perched, and sat, and nothing more.</stanza>
+    
+    <stanza><lb/>Then this ebony bird beguiling my sad fancy <prep value="closed">into</prep> smiling,
+        <lb/>By the <noun value="closed">grave</noun> and stern decorum of the countenance it wore,
+        <lb/>"Though thy crest be <adj value="open">shorn</adj> and <adj value="open">shaven</adj>, thou," I said, "art sure no craven,
+        <lb/>Ghastly grim and ancient Raven wandering from the Nightly shore--
+        <lb/>Tell me what thy lordly name is on the Night's <ref value="mythological">Plutonian</ref> shore!"
+        <lb/>Quoth the Raven, "Nevermore."</stanza>
+    
+    <stanza><lb/>Much I marvelled this ungainly fowl to hear discourse so plainly,
+        <lb/>Though its answer little meaning--little relevancy bore;
+        <lb/>For we cannot help agreeing that no living human being
+        <lb/>Ever yet was blessed with seeing bird <prep value="open">above</prep> his <noun value="closed">chamber</noun> door--
+        <lb/>Bird or beast upon the sculptured bust <prep value="open">above</prep> his <noun value="closed">chamber</noun> door,
+        <lb/>With such name as "Nevermore."</stanza>
+    
+    <stanza><lb/>But the Raven, sitting lonely on that placid bust, spoke only
+        <lb/>That one word, as if his soul <prep value="closed">in</prep> that one word he did <verb value="open">outpour</verb>.
+        <lb/>Nothing further then he uttered--not a feather then he fluttered--
+        <lb/>Till I scarcely more than muttered, "Other friends have <verb value="open">flown</verb> before--
+        <lb/>On the morrow he will <verb value="open">leave</verb> me, as my hopes have <verb value="open">flown</verb> before."
+        <lb/>Then the bird said, "Nevermore."</stanza>
+    
+    <stanza><lb/>Startled at the stillness <verb value="open">broken</verb> by reply so aptly spoken,
+        <lb/>"Doubtless," said I, "what it utters is its only stock and store,
+        <lb/>Caught from some unhappy master whom unmerciful Disaster
+        <lb/>Followed fast and followed faster till his songs one <noun value="closed">burden</noun> <verb value="closed">bore</verb>--
+        <lb/>Till the dirges of his Hope the melancholy <noun value="closed">burden</noun> <verb value="closed">bore</verb>
+        <lb/>Of 'Never--nevermore.'"</stanza>
+    
+    <stanza><lb/>But the Raven still beguiling all my sad soul <prep value="closed">into</prep> smiling,
+        <lb/>Straight I wheeled a cushioned seat <prep value="closed">in</prep> front of bird and bust and door;
+        <lb/>Then, upon the velvet <verb value="closed">sinking</verb>, I betook myself to <verb value="closed">linking</verb>
+        <lb/>Fancy unto fancy, thinking what this ominous bird of yore--
+        <lb/>What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
+        <lb/>Meant <prep value="closed">in</prep> croaking "Nevermore."</stanza>
+    
+    <stanza><lb/>This I sat engaged <prep value="closed">in</prep> guessing, but no syllable expressing
+        <lb/>To the fowl whose fiery eyes now burned <prep value="closed">into</prep> my bosom's <noun value="closed">core</noun>;
+        <lb/>This and more I sat divining, with my head at ease reclining
+        <lb/>On the cushion's velvet lining that the lamp-light gloated <prep value="open">o'er</prep>,
+        <lb/>But whose velvet violet lining with the lamp-light gloating <prep value="open">o'er</prep>,
+        <lb/>She shall press, ah, nevermore!</stanza>
+    
+    <stanza><lb/>Then, methought, the air grew denser, perfumed from an unseen censer
+        <lb/>Swung by <ref value="biblical">Seraphim</ref> whose foot-falls tinkled on the tufted floor.
+        <lb/>"Wretch," I cried, "thy <noun value="open">God</noun> hath lent thee--by these <noun value="open">angels</noun> he hath sent thee
+        <lb/><noun value="open">Respite</noun>--<noun value="open">respite</noun> aad <ref value="greek">nepenthé</ref> from thy memories of Lenore!
+        <lb/>Quaff, oh quaff this kind <ref value="greek">nepenthé</ref>, and <verb value="closed">forget</verb> this <adj value="closed">lost</adj> Lenore!"
+        <lb/>Quoth the Raven, "Nevermore."</stanza>
+    
+    <stanza><lb/>"Prophet!" said I, "thing of evil!--prophet still, if bird or <noun value="closed">devil</noun>!--
+        <lb/>Whether Tempter sent, or whether tempest tossed thee here ashore,
+        <lb/><adj value="closed">Desolate</adj> yet all undaunted, on this desert land enchanted--
+        <lb/>On this home by Horror <verb value="closed">haunted</verb>--tell me truly, I implore--
+        <lb/>Is there--is there balm in <ref value="location">Gilead</ref>?--tell me--tell me, I implore!"
+        <lb/>Quoth the Raven, "Nevermore."</stanza>
+    
+    <stanza><lb/>"Prophet!" said I, "thing of evil!--prophet still, if bird or <noun value="closed">devil</noun>!
+        <lb/>By that <noun value="open">Heaven</noun> that bends <prep value="open">above</prep> us--by that <noun value="open">God</noun> we both adore--
+        <lb/>Tell this soul with sorrow <verb value="closed">laden</verb> if, <prep value="closed">within</prep> the distant <ref value="location">Aidenn</ref>,
+        <lb/>It shall <verb value="closed">clasp</verb> a sainted maiden whom the <noun value="open">angels</noun> name Lenore--
+        <lb/><verb value="closed">Clasp</verb> a rare and <adj value="open">radiant</adj> maiden whom the <noun value="open">angels</noun> name Lenore."
+        <lb/>Quoth the Raven, "Nevermore."</stanza>
+    
+    <stanza><lb/>"Be that word our sign of <noun value="open">parting</noun>, bird or fiend!" I shrieked, upstarting--
+        <lb/>"Get thee back <prep value="closed">into</prep> the tempest and the Night's <ref value="mythological">Plutonian</ref> shore!
+        <lb/><verb value="open">Leave</verb> no black plume as a token of that lie thy soul hath spoken!
+        <lb/><verb value="open">Leave</verb> my loneliness <adj value="closed">unbroken</adj>!--<verb value="open">quit</verb> the bust <prep value="open">above</prep> my door!
+        <lb/>Take thy beak from <prep value="open">out</prep> my heart, and take thy form from <prep value="open">off</prep> my door!"
+        <lb/>Quoth the Raven, "Nevermore."</stanza>
+    
+    <stanza><lb/>And the Raven, never flitting, still is sitting, still is sitting
+        <lb/>On the pallid bust of <ref value="mythological">Pallas</ref> just <prep value="open">above</prep> my <noun value="closed">chamber</noun> door;
+        <lb/>And his eyes have all the seeming of a <noun value="closed">demon</noun>'s that is dreaming,
+        <lb/>And the lamp-light <prep value="open">o'er</prep> him streaming throws his shadow on the floor;
+        <lb/>And my soul from <prep value="open">out</prep> that shadow that lies floating on the floor
+        <lb/>Shall be <verb value="open">lifted</verb>--nevermore!</stanza>
 </poem>

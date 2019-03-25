@@ -1,37 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    <metadata>
+    <meta>
         <title>ELDORADO</title>
         <date>1849</date>
-    </metadata>
+    </meta>
     <stanza>
-        <lineBreak>Gaily bedight,</lineBreak>
-        <lineBreak>A gallant knight,</lineBreak>
-        <lineBreak><prep value="closed">In</prep> <noun value="open">sunshine</noun> and <prep value="closed">in</prep> <noun value="closed">shadow</noun>,</lineBreak>
-        <lineBreak>Had journeyed long,</lineBreak>
-        <lineBreak>Singing a song,</lineBreak>
-        <lineBreak><prep value="closed">In</prep> <verb value="open">search</verb> of <placeName>Eldorado</placeName>.</lineBreak>
-        <lineBreak>But he grew old--</lineBreak>
-        <lineBreak>This knight so bold--</lineBreak>
-        <lineBreak>And <prep value="open">o'er</prep> his heart a <noun value="closed">shadow</noun></lineBreak>
-        <lineBreak><verb value="closed">Fell</verb> as he <verb value="open">found</verb></lineBreak>
-        <lineBreak>No spot of ground</lineBreak>
-        <lineBreak>That looked like <placeName>Eldorado</placeName>.</lineBreak>
+        <lb/>Gaily bedight,
+        <lb/>A gallant knight,
+        <lb/><prep value="closed">In</prep> <noun value="open">sunshine</noun> and <prep value="closed">in</prep> <noun value="closed">shadow</noun>,
+        <lb/>Had journeyed long,
+        <lb/>Singing a song,
+        <lb/><prep value="closed">In</prep> <verb value="open">search</verb> of <ref value="mythological">Eldorado</ref>.
+        <lb/>But he grew old--
+        <lb/>This knight so bold--
+        <lb/>And <prep value="open">o'er</prep> his heart a <noun value="closed">shadow</noun>
+        <lb/><verb value="closed">Fell</verb> as he <verb value="open">found</verb>
+        <lb/>No spot of ground
+        <lb/>That looked like <ref value="mythological">Eldorado</ref>.
     </stanza>
     <stanza>
-        <lineBreak>And, as his strength</lineBreak>
-        <lineBreak><verb value="closed">Failed</verb> him at length,</lineBreak>
-        <lineBreak>He met a pilgrim <noun value="closed">shadow</noun>--</lineBreak>
-        <lineBreak>"<noun value="closed">Shadow</noun>," said he,</lineBreak>
-        <lineBreak>"Where can it be--</lineBreak>
-        <lineBreak>This land of <placeName>Eldorado</placeName>?"</lineBreak>
+        <lb/>And, as his strength
+        <lb/><verb value="closed">Failed</verb> him at length,
+        <lb/>He met a pilgrim <noun value="closed">shadow</noun>--
+        <lb/>"<noun value="closed">Shadow</noun>," said he,
+        <lb/>"Where can it be--
+        <lb/>This land of <ref value="mythological">Eldorado</ref>?"
     </stanza>
     <stanza>
-        <lineBreak>"<prep value="open">Over</prep> the Mountains</lineBreak>
-        <lineBreak>Of the <noun value="open">Moon</noun>,</lineBreak>
-        <lineBreak><prep value="closed">Down</prep> the Valley of the <noun value="closed">Shadow</noun>,</lineBreak>
-        <lineBreak>Ride, boldly ride,"</lineBreak>
-        <lineBreak>The shade replied,</lineBreak>
-        <lineBreak>"If you <verb value="open">seek</verb> for <placeName>Eldorado</placeName>!"</lineBreak>
+        <lb/>"<prep value="open">Over</prep> the Mountains
+        <lb/>Of the <noun value="open">Moon</noun>,
+        <lb/><prep value="closed">Down</prep> the Valley of the <noun value="closed">Shadow</noun>,
+        <lb/>Ride, boldly ride,"
+        <lb/>The shade replied,
+        <lb/>"If you <verb value="open">seek</verb> for <ref value="mythological">Eldorado</ref>!"
     </stanza>
 </poem>
