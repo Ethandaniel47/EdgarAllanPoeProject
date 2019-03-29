@@ -9,7 +9,7 @@
         <html>
             <head>
                 <title>Processed Poem</title>
-                <link rel="stylesheet" type="text/css" href="xslthighlight.css"></link>
+                <link rel="stylesheet" type="text/css" href="../xslthighlight.css"></link>
             </head>
             <body>
                 <!-- First, we get the title of the poem -->
