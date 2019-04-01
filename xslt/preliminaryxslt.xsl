@@ -3,7 +3,7 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs" version="3.0" xmlns="http://www.w3.org/1999/xhtml">
     
-    <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compact"/>
+    <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     
     <xsl:template match="/">
         <html>
