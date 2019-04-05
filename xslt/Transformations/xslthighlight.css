@@ -1,0 +1,50 @@
+html{
+    background-color:black;
+    color:white;
+}
+a{
+    color:aqua;
+}
+a:hover{
+    color:lime;
+}
+.noun{
+    color:orange;
+}
+.verb{
+    color:lightgreen;
+}
+.foreign{
+    color:yellow;
+    font-weight:bold;
+}
+.adj{
+    color:red;
+}
+.adv{
+    color:aqua;
+}
+.ref{
+    color:darkorchid;
+}
+.prep{
+    color:khaki;
+} 
+.conj{
+    color:green;
+}
+.inter{
+    color:gray;
+}
+.pron{
+    color:lemonchiffon;
+}
+.det{
+    color:darksalmon;   
+}
+.open{
+    font-style:italic;
+}
+.closed{
+    text-decoration:underline;
+}
