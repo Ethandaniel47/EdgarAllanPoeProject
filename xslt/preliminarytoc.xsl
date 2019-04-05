@@ -11,8 +11,10 @@
         <html>
             <head>
                 <title>XML Table of Contents</title>
+                <link rel="stylesheet" type="text/css" href="xslthighlight.css"></link>
             </head>        
             <body>
+                <h1>Markup Table of Contents</h1>
                 <ul>
                     <xsl:apply-templates select="$documents" />
                 </ul>
@@ -24,9 +26,9 @@
     </xsl:template>
     
     <xsl:template match="$documents">
-        <xsl:variable name="currdoc" select="tokenize(base-uri(.), '/')[last()]"/>
+        <xsl:variable name="currdoc" select="tokenize(tokenize(base-uri(.), '/')[last()], '\.')[1]"/>
         
-        <li><a href="{tokenize(base-uri(.), '/')[last()]}"><xsl:value-of select="$currdoc"/></a></li>
+        <li><a href="{$currdoc}.xhtml"><xsl:apply-templates select=".//title"/></a></li>
     </xsl:template>
     
 </xsl:stylesheet>
