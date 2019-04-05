@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs" version="3.0" xmlns="http://www.w3.org/1999/xhtml">
-    
+    <!--To run this from the command line - invoke java  -jar <insertpathto saxon9he.jar>  -xsl:preliminarytoc.xsl -it:main -o:Transformations/tableofcontents.xhtml -->
     <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compat"  media-type="text/html"/>
     
     <xsl:variable name="documents" select="collection('../markedcorpus/?select=*.xml')"/>
@@ -29,6 +29,7 @@
         <xsl:variable name="currdoc" select="tokenize(tokenize(base-uri(.), '/')[last()], '\.')[1]"/>
         
         <li><a href="{$currdoc}.xhtml"><xsl:apply-templates select=".//title"/></a></li>
+        <!-- Meeting notes : optional task - split the poem list to make the output look nicer -->
     </xsl:template>
     
 </xsl:stylesheet>
