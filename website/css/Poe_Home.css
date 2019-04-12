@@ -1,10 +1,12 @@
 /* Default CSS */
 html {
-    background-image: url("Background-image.jpg");
+    background-image: url("marble.png");
     background-color: #cccccc;
 }
 body {
     font-family: "Book Antiqua";
+    background-image: url("marble.png");
+    background-color: #cccccc;
 }
 p {
     text-indent: 40px;
