@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+    <line x1="50" y1="50" x2="50" y2="300" stroke="black" stroke-width="3"/>
+    <line x1="50" y1="300" x2="250" y2="300" stroke="black" stroke-width="3"></line>
+    <line x1="50" y1="175" x2="250" y2="175" stroke="gray" stroke-width="1"></line>
+    <rect x="57" y="50" height="250" width="30" fill="cyan" stroke="black" stroke-width="3"/>
+    <rect x="124" y="125" height="175" width="30" fill="magenta" stroke="black" stroke-width="3"/>
+    <rect x="191" y="225" height="75" width="30" fill="yellow" stroke="black" stroke-width="3"/>
+    <text stroke="black" x="57" y="325">Curly</text>
+    <text stroke="black" x="124" y="325">Larry</text>
+    <text stroke="black" x="191" y="325">Moe</text>
+    <text stroke="black" x="25" y="50">50</text>
+    <text stroke="black" x="25" y="100">40</text>
+    <text stroke="black" x="25" y="150">30</text>
+    <text stroke="black" x="25" y="200">20</text>
+    <text stroke="black" x="25" y="250">10</text>
+</svg>

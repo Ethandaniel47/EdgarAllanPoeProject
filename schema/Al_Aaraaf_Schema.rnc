@@ -1,0 +1,69 @@
+start = poem
+poem = element poem { meta, mixed{(head, part)+}}
+meta = element meta { title, date? }
+title = element title { text }
+date = element date { xsd:gYear }
+head= element head {part2, text}
+part= element part {(value, mixed{(stanza)+})}
+stanza =element stanza {
+        (lb,
+         mixed { (noun | verb | adj | adv | ref | prep | conj | inter | pron | foreign | det)* })+
+    }
+lb = element lb { empty }
+value= attribute value {"I"|"II"}
+part2= attribute part {"I"|"II"}
+noun =
+    element noun {
+        pvalue,
+        mixed { lb? }
+    }
+verb =
+    element verb {
+        pvalue,
+        mixed { lb? }
+    }
+adj =
+    element adj {
+        pvalue,
+        mixed { lb? }
+    }
+adv =
+    element adv {
+        pvalue,
+        mixed { lb? }
+    }
+prep =
+    element prep {
+        pvalue,
+        mixed { lb? }
+    }
+conj =
+    element conj {
+        pvalue,
+        mixed { lb? }
+    }
+inter =
+    element inter {
+        pvalue,
+        mixed { lb? }
+    }
+pron =
+    element pron {
+        pvalue,
+        mixed { lb? }
+    }
+det =
+    element det {
+        pvalue,
+        mixed { lb? }
+    }
+ref =
+    element ref {
+        rvalue,
+        mixed { lb? }
+    }
+rvalue = attribute value { text }
+pvalue = attribute value { "open" | "closed" }
+foreign = element foreign { lang, text }
+lang = attribute lang { text }
+
