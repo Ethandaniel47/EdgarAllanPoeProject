@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/poemschema1.rnc" type="application/relax-ng-compact-syntax"?>
+<poem><title>The Conqueror Worm</title>
+
+<stanza>Lo! 'tis a gala <noun value="closed">night</noun> 
+Within the <adj value="closed">lonesome</adj> latter years!
+An <noun value="open">angel</noun> throng, bewinged, bedight 
+In <noun value="closed">veils</noun>, and <verb value="closed">drowned</verb> in tears,
+Sit in a theatre, to see 
+A play of hopes and fears,
+While the orchestra <verb value="open">breathes</verb> fitfully 
+The music of the spheres.</stanza> 
+
+<stanza>Mimes, in the form of God on high, 
+Mutter and mumble low,
+And hither and thither <verb value="open">fly</verb>—
+Mere puppets they, who come and go
+At bidding of <adj value="open">vast</adj> formless things 
+That shift the scenery to and fro,
+Flapping <prep value="open">from</prep> <adv value="open">out</adv> their Condor wings 
+Invisible Wo!</stanza> 
+
+<stanza>That motley drama—oh, be sure 
+It shall not be forgot!
+With its Phantom chased for evermore, 
+By a crowd that <verb value="closed">seize</verb> it not,
+<prep value="open">Through</prep> a <noun value="closed">circle</noun> that ever returneth <prep value="closed">in</prep> 
+To the self-same spot,
+And much of Madness, and more of Sin, 
+And Horror the soul of the plot.</stanza> 
+
+<stanza>But see, <prep value="closed">amid</prep> the mimic rout 
+A crawling shape <verb value="closed">intrude</verb>!
+A blood-red thing that writhes <prep value="open">from</prep> <adv value="open">out</adv> 
+The scenic <noun value="closed">solitude</noun>!
+It writhes!—it writhes!—with mortal pangs 
+The mimes become its food,
+And the angels sob at vermin fangs 
+<prep vlaue="closed">In</prep> human gore imbued.</stanza> 
+
+<stanza>Out—out are the lights—out all! 
+And, <prep value="closed">over</prep> each quivering form,
+The <noun value="closed">curtain</noun>, a funeral <noun value="closed">pall</noun>, 
+Comes <adv value="closed">down</adv> with the rush of a storm,
+And the <noun value="open">angels</noun>, all pallid and wan, 
+<verb value="open">Uprising</verb>, <verb value="open">unveiling</verb>, affirm
+That the play is the tragedy, "Man," 
+And its hero the Conqueror Worm.</stanza>
+
+<date>1838</date>
+</poem>
