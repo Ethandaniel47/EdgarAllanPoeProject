@@ -22,13 +22,13 @@
                 <line x1="{$xwidth div 2}" y1="-{$ylength + $axisstroke}" x2="{$xwidth div 2}" y2="0" stroke="black" stroke-width="{$axisstroke}"/>
                 <!-- Legend -->
                 <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3)}" height="20" width="20" fill="green" stroke="black"/>
-                <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 15}" text-anchor="start" fill="black"> - Positive</text>
+                <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 15}" text-anchor="start" fill="black"> - Open</text>
                 <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3) - 30}" height="20" width="20" fill="red" stroke="black"/>
-                <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 45}" text-anchor="start" fill="black"> - Negative</text>
+                <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 45}" text-anchor="start" fill="black"> - Closed</text>
                 
                 <!-- Now for the text -->
                 <!-- Title -->
-                <text x="{$xwidth div 2}" y="-{$ylength + 25}" font-weight="bold" font-size="24" text-anchor="middle" fill="black">Total Positive vs. Negative Values</text>
+                <text x="{$xwidth div 2}" y="-{$ylength + 25}" font-weight="bold" font-size="24" text-anchor="middle" fill="black">Total Open vs. Closed Values</text>
                 <!-- Axis Numbers-->
                 <text x="{$xwidth}" y="-{$ylength + 10}" font-weight="bold" font-size="16" text-anchor="middle" fill="black">150</text>
                 <text x="{0}" y="-{$ylength + 10}" font-weight="bold" font-size="16" text-anchor="middle" fill="black">150</text>
