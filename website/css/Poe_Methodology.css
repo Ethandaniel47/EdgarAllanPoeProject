@@ -1,5 +1,10 @@
 html{
-    background-image:url("Background-image.jpg");
+    background-image:url("marble.png");
+}
+body {
+    font-family: "Book Antiqua";
+    background-image: url("marble.png");
+    background-color: #cccccc;
 }
 h1{
     color:black;
