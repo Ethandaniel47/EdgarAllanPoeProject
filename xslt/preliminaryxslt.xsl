@@ -12,7 +12,7 @@
                 <link rel="stylesheet" type="text/css" href="xslthighlight.css"></link>
             </head>
             <body>
-                <p class="backtomarkup"><a href="Poe_Corpus.xhtml">Back to Table of Contents</a></p>
+                <p class="backtomarkup"><a href="../Poe_Corpus.xhtml">Back to Table of Contents</a></p>
                 <!-- First, we get the title of the poem -->
                 <h1>
                     <xsl:apply-templates select="//title"/>
