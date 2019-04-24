@@ -3,6 +3,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs" version="3.0" xmlns="http://www.w3.org/2000/svg">
     
+    <!-- command line - java  -jar <insertpathto saxon9he.jar> -xsl:svgpos.xsl -it:main -o:SVG\partossvg.svg -->
+    
     <xsl:variable name="documents" select="collection('../markedcorpus/?select=*.xml')"/>
     <xsl:variable name="xscale" select="3"/>
     <xsl:variable name="xwidth" select="(200 * $xscale) + 3"/>

@@ -21,9 +21,9 @@
                 <line x1="0" y1="0" x2="{$xwidth}" y2="0" stroke="black" stroke-width="{$axisstroke}"/>
                 <line x1="{$xwidth div 2}" y1="-{$ylength + $axisstroke}" x2="{$xwidth div 2}" y2="0" stroke="black" stroke-width="{$axisstroke}"/>
                 <!-- Legend -->
-                <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3)}" height="20" width="20" fill="green" stroke="black"/>
+                <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3)}" height="20" width="20" fill="blue" stroke="black"/>
                 <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 15}" text-anchor="start" fill="black"> - Open</text>
-                <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3) - 30}" height="20" width="20" fill="red" stroke="black"/>
+                <rect x="{$xwidth + 40}" y="-{$ylength * (2 div 3) - 30}" height="20" width="20" fill="orange" stroke="black"/>
                 <text x="{$xwidth + 65}" y="-{$ylength * (2 div 3) - 45}" text-anchor="start" fill="black"> - Closed</text>
                 
                 <!-- Now for the text -->
@@ -53,8 +53,8 @@
         <xsl:variable name="posx" select="($xwidth div 2) - count($open)*$xscale"/>
         <xsl:variable name="barY" select="$ylength + 1 - (($prevdocs - 1) * $bar-height)"/>
         
-        <rect x="{$posx}" y="-{$barY}" width="{count($open) * $xscale}" height="{$bar-height}" fill="green" stroke="black"/>
-        <rect x="{($xwidth div 2)}" y="-{$barY}" width="{count($closed) * $xscale}" height="{$bar-height}" fill="red" stroke="black"/>
+        <rect x="{$posx}" y="-{$barY}" width="{count($open) * $xscale}" height="{$bar-height}" fill="blue" stroke="black"/>
+        <rect x="{($xwidth div 2)}" y="-{$barY}" width="{count($closed) * $xscale}" height="{$bar-height}" fill="orange" stroke="black"/>
         <text x="{$posx - 5}" y="-{$barY - 10}" text-anchor="end" font-size="12"><xsl:value-of select="//title"/></text>
     </xsl:template>
     
