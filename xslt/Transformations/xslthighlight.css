@@ -1,9 +1,14 @@
 html{
-    background-color:black;
+    background-color:gray;
     color:white;
 }
 h1{
     text-align:center;
+    color:white;
+    background-color:black;
+    margin-left:10%;
+    margin-right:30%;
+    border:1px solid;
 }
 a{
     color:aqua;
@@ -11,12 +16,36 @@ a{
 a:hover{
     color:lime;
 }
+body p{
+    background-color:black;
+    margin-left:10%;
+    margin-right:30%;
+    border:1px solid;
+    padding:10px
+}
+p.backtomarkup{
+    background-color:Black;
+    margin-right:85%;
+    padding-left:5px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:1px solid aqua;
+}
+p.backtomarkup:hover{
+    border-color:lime;
+}
 .legend{
     position:fixed;
+    right:0;
     margin-left:70%;
     margin-right:10%;
     background-color:DarkSlateGray;
     padding:10px;
+    border: 1px solid;
+}
+.legend p{
+    background-color:DarkSlateGray;
+    border:none;
 }
 .tocbox{
     position:relative;
