@@ -1,5 +1,6 @@
 html{
-    background-color:gray;
+    background-image:url("marble.png");
+    background-color:#cccccc;
     color:white;
 }
 h1{
