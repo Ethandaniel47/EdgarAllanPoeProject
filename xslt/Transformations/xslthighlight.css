@@ -10,6 +10,13 @@ h1{
     margin-right:30%;
     border:1px solid;
 }
+h2{
+    text-align:center;
+    margin-left:30%;
+    margin-right:50%;
+    background-color:black;
+    border:1px solid;
+}
 a{
     color:aqua;
 }
